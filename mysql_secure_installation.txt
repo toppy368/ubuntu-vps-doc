@@ -1,0 +1,100 @@
+NOTE: RUNNING ALL PARTS OF THIS SCRIPT IS RECOMMENDED FOR ALL MariaDB
+      SERVERS IN PRODUCTION USE!  PLEASE READ EACH STEP CAREFULLY!
+	  
+
+注意：建議為所有 MariaDB 運行本腳本的所有部分
+       生產中使用的服務器！ 請仔細閱讀每一步！
+
+In order to log into MariaDB to secure it, we'll need the current
+password for the root user.  If you've just installed MariaDB, and
+you haven't set the root password yet, the password will be blank,
+so you should just press enter here.
+
+
+為了登錄MariaDB以保護它，我們需要當前的
+root用戶的密碼。 如果你剛剛安裝了MariaDB，那麼
+你還沒有設置root密碼，密碼是空白的，
+所以你應該在這裡按Enter鍵。
+
+Enter current password for root (enter for none):
+
+輸入root的當前密碼：
+
+Setting the root password ensures that nobody can log into the MariaDB
+root user without the proper authorisation.
+
+設置root密碼可確保沒有人可以登錄MariaDB
+沒有適當授權的root用戶。
+
+Set root password? [Y/n] 
+
+設定 root 密碼? [Y(是)/n(否)]
+
+New password: 
+Re-enter new password:
+新密碼:
+再輸入新密碼:
+
+Password updated successfully!
+Reloading privilege tables..
+ ... Success!
+
+By default, a MariaDB installation has an anonymous user, allowing anyone
+to log into MariaDB without having to have a user account created for
+them.  This is intended only for testing, and to make the installation
+go a bit smoother.  You should remove them before moving into a
+production environment.
+
+默認情況下，MariaDB安裝具有匿名用戶，允許任何人
+無需創建用戶帳戶即可登錄MariaDB
+他們。 這僅用於測試和進行安裝
+走得更順一些。 你應該在進入之前刪除它們
+生產環境。
+
+Remove anonymous users? [Y/n] 
+
+刪除匿名用戶？[Y(是)/n(否)]
+
+Normally, root should only be allowed to connect from 'localhost'.  This
+ensures that someone cannot guess at the root password from the network.
+
+通常，只允許root用戶從'localhost'連接。 這個
+確保有人無法猜測來自網絡的root密碼。
+
+Disallow root login remotely? [Y/n] 
+
+禁止 root 遠程登錄？[Y/ N]
+
+By default, MariaDB comes with a database named 'test' that anyone can
+access.  This is also intended only for testing, and should be removed
+before moving into a production environment.
+
+默認情況下，MariaDB附帶一個名為“test”的數據庫，任何人都可以
+訪問。 這也僅用於測試，應該刪除
+在進入生產環境之前。
+
+Remove test database and access to it? [Y/n] 
+
+刪除測試數據庫並訪問它？[Y/n]
+
+Reloading the privilege tables will ensure that all changes made so far
+will take effect immediately.
+
+Reload privilege tables now? [Y/n] 
+
+重新載入權限表將確保到目前為止所做的所有更改
+將立即生效。
+
+現在重新載入權限表？
+
+All done!  If you've completed all of the above steps, your MariaDB
+installation should now be secure.
+
+全部完成！ 如果您已完成上述所有步驟，請使用MariaDB
+安裝現在應該是安全的。
+
+Thanks for using MariaDB!
+
+感謝您使用MariaDB！
+
+
