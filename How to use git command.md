@@ -34,4 +34,4 @@ git push <b>origin master</b>
 <pre lang="no-highlight"><code>
 git push <b>--set-upstream</b> origin master
 </code></pre>
-```--set-upstream```會設定預設的分支，目前指定為origin與master分支，一旦設定後，未來只需下達 ```git push```，git會自動上傳資料到預設分知(origin master分支)，可依照實際需要將origin修改成需要的分支名稱
+`--set-upstream` 會設定預設的分支，目前指定為origin與master分支，一旦設定後，未來只需下達 `git push`，git會自動上傳資料到預設分知(origin master分支)，可依照實際需要將origin修改成需要的分支名稱
