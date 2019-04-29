@@ -1,5 +1,10 @@
 ## 如何使用 Git 指令 How to use git command
 
+### 前置作業
+* **[首次設定]** 設定git的初始值及個人資料 (google:git config)
+* **[首次設定]** 設定git的 ssh 傳輸金鑰 (google:git ssh key)
+* 透過命令列創造資料夾 (google：linux 目錄 指令 / linux 目錄 管理)
+* 將資料夾加入git版控系統 (google: git init)
 
 ### Git Add 加入檔案進 git  
 #### 將 Helloworld.txt 加入git  
