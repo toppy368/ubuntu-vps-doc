@@ -16,7 +16,9 @@ git add <b>--all</b>
 </code></pre>  
 
 ### Git status 檢查Git加入了那些檔案
-git status
+```
+$ git status
+```
 
 ### Git commit 加入修改內容記錄  
 git commit -m "Commti TEXT"
