@@ -5,9 +5,7 @@
 將 **Helloworld.txt** 加入git  
 <pre lang="no-highlight"><code>
 ```
-git add Helloworld.txt
-
-<b>標籤</b>
+git add <b>Helloworld.txt</b>
 ```
 </code></pre>
 此動作會將Hellworld.txt加入git版控系統中  
