@@ -17,6 +17,7 @@ git add <b>--all</b>
 ```
 $ git status
 ```
+(這裡放置加入檔案後的結果)
 
 ### Git commit 加入修改內容記錄  
 ```
