@@ -5,7 +5,7 @@
 將 **Helloworld.txt** 加入git  
 ```
 #!/bin/bash
-git add <b>Helloworld.txt</b>
+git add Helloworld.txt
 ```
 此動作會將Hellworld.txt加入git版控系統中  
 
