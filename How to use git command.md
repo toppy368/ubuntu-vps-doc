@@ -6,7 +6,7 @@
 ```
 git add <b>Helloworld.txt</b>
 ```
-此動作會將Hellworld.txt加入git版控系統中
+此動作會將Hellworld.txt加入git版控系統中  
 
 
 將所有檔案加入git  
