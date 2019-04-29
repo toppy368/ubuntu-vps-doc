@@ -5,5 +5,5 @@
 將Helloworld.txt加入git  
 git add Helloworld.txt
 
-將所有檔案加入git
+將所有檔案加入git  
 git add --all
