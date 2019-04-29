@@ -12,4 +12,8 @@ git add <b>Helloworld.txt</b>
 
 
 將所有檔案加入git  
-`git add --all`
+<pre lang="no-highlight"><code>
+```
+git add <b>--all</b>
+```
+</code></pre>
