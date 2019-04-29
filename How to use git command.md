@@ -14,3 +14,6 @@ git add <b>Helloworld.txt</b>
 # Add all file to git
 git add <b>--all</b>
 </code></pre>  
+
+### Git status 檢查Git加入了那些檔案
+git status
