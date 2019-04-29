@@ -28,4 +28,7 @@ git commit -m "Commti TEXT"
 <pre lang="no-highlight"><code>
 git push <b>origin master</b>
 <code>
-這會將commit的檔案 **全數上傳** 到為 **origin** 或 **master** 分支，分支就像路徑一樣需要特別指定位置，而 origin 或 master 分支預設會顯示在首頁上，等於上線環境。
+這會將commit的檔案 **全數上傳** 到為 **origin** 或 **master** 分支，分支就像路徑一樣需要特別指定位置，而 origin 或 master 分支預設會顯示在首頁上，等於上線環境。  
+
+#### 設定預設分支並將push內容上傳到 origin / master
+git push --set-upstream origin master
