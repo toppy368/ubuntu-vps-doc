@@ -28,3 +28,4 @@ git commit -m "Commti TEXT"
 <pre lang="no-highlight"><code>
 git push <b>origin master</b>
 <code>
+這會將commit的檔案 **全數上傳** 到為 **origin** 或 **master** 分支
