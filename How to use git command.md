@@ -26,5 +26,5 @@ git commit -m "Commti TEXT"
 
 ### Git push 將修改傳送到Git雲端，及預設的origin / master 分支中  
 <pre lang="no-highlight"><code>
-git push origin master
+git push <b>origin master</b>
 <code>
