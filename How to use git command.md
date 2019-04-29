@@ -21,4 +21,6 @@ $ git status
 ```
 
 ### Git commit 加入修改內容記錄  
+```
 git commit -m "Commti TEXT"
+```
