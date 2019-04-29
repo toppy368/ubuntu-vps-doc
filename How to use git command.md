@@ -3,7 +3,9 @@
 
 ### Git Add 加入檔案進 git  
 將Helloworld.txt加入git  
-```git add Helloworld.txt```
+```
+git add <br>Helloworld.txt</br>
+```
 
 將所有檔案加入git  
 `git add --all`
