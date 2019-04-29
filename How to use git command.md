@@ -3,8 +3,7 @@
 
 ### Git Add 加入檔案進 git  
 將 **Helloworld.txt** 加入git  
-```
-#!/bin/bash
+```bash
 git add Helloworld.txt
 ```
 此動作會將Hellworld.txt加入git版控系統中  
