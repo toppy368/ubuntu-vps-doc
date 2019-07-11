@@ -6,7 +6,7 @@
     mysql -u root -p  
     Enter password: [root password]
 
-**注意：** 預設狀態下，root 不須帳號密碼即可登入，出現 Enter password 可直接使用空白密碼以 Enter 登入。
+**注意：** 預設狀態下，root 不需帳號密碼即可登入，出現 Enter password 可直接使用空白密碼以 Enter 登入。
 
 ### 建立新資料庫供服務使用
 
