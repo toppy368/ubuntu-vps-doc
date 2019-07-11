@@ -3,8 +3,10 @@
 ## 使用管理員帳號創造新資料庫與新使用者帳號密碼
 
 ### 以 root 密碼登入資料庫
+  # mysql -u root -p
+  >Enter password: [root password]
 
-**注意：** 預設狀態下，root 不須帳號密碼即可登入。
+**注意：** 預設狀態下，root 不須帳號密碼即可登入，出現 Enter password 可直接使用空白密碼以 Enter 登入。
 
 ### 建立新資料庫供服務使用
 
