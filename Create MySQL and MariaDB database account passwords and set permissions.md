@@ -8,6 +8,20 @@
 
 **注意：** 預設狀態下，root 不需帳號密碼即可登入，出現 Enter password 可直接使用空白密碼以 Enter 登入。
 
+出現此段落表示成功登入：  
+    Welcome to the MariaDB monitor.  Commands end with ; or \g.  
+    Your MariaDB connection id is 41  
+    Server version: 10.1.40-MariaDB-0ubuntu0.18.04.1 Ubuntu 18.04  
+
+    Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.  
+
+    Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.  
+
+請在本段落輸入指令：
+    MariaDB [(none)]>
+
+
+
 ### 建立新資料庫供服務使用
 
 ### 建立新使用者帳號與設定密碼
