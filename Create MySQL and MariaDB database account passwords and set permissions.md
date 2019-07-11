@@ -6,6 +6,7 @@
     # mysql -u root -p  
     Enter password: [root password]
 
+這裡的 -u 表示帳號，root 為 Mysql 與開源分支的 MariaDB 預設的管理員帳號。
 **注意：** 預設狀態下，root 不需帳號密碼即可登入，出現 Enter password 可直接使用空白密碼以 Enter 登入。
 
 出現此段落表示成功登入：  
@@ -22,7 +23,7 @@
 
     MariaDB [(none)]>
 
-
+看到以上指令，原則尚可進行任何的SQL指令操作，但本次只操作新增資料庫與新增使用者的指令，其餘指令需請讀者自行搜尋sql資料庫相關知識。
 
 ### 建立新資料庫供服務使用
 
