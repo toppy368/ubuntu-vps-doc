@@ -18,7 +18,8 @@
 
     Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.  
 
-請在本段落輸入指令：
+請在本段落輸入SQL指令：  
+
     MariaDB [(none)]>
 
 
