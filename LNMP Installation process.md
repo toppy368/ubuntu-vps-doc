@@ -12,7 +12,7 @@ sql DB:MariaDB
 
 為了方便初學者理解以下這些步驟在做什麼，這裡提供上方的簡化流程。
 
-### 前置作業 
+### 前置作業
 **注意：** 以下請開啟中端機輸入指令，一行一行執行  
 #### 登入：
 	ssh [root id@host ip]
@@ -25,8 +25,8 @@ sql DB:MariaDB
 	sudo apt-get install nginx
 
 #### Test Nginx on Work 測試 Nginx 正常運作：
-請於網址欄輸入以下訊息： 
- 
+請於網址欄輸入以下訊息：
+
 	http://[host ip]
 
 **注意：** 主機未簽署與申請 https 證書，https將無法運作，請將網址手動改成 http，以免無法開啟網站。
@@ -34,54 +34,54 @@ sql DB:MariaDB
 如果成功，將顯示以下畫面：
 
 	Welcome to nginx!
-	
+
 	If you see this page, the nginx web server is successfully installed and working. Further configuration is required.
 
 	For online documentation and support please refer to nginx.org.
 	Commercial support is available at nginx.com.
-	
+
 	Thank you for using nginx.
 
-	
+
 ### Install mariadb (Opendata SQL Server) 安裝 mariadb (開源的SQL伺服器)：
 	sudo apt-get install mariadb-server
 
-**注意：** 安裝過程並沒有提示帳號密碼，也就是說此時資料庫的 root 帳號不需密碼就能登入，下一步執行安全套件將解決此問題。
-	
+**注意：** 安裝過程並沒有提示帳號密碼，也就是說 **此時資料庫的 root 帳號不需密碼就能登入** ，建議先新增一個同樣具有操作資料庫權限的帳號並刪除root帳號以策安全。
+
 #### Set mariadb secure Option 安裝 mariadb 安全選項：
 	sudo mysql_secure_installation
 
 **注意：** 關於 mysql secure installation 安全套件的詳細說明與中文簡譯請參考本專案的 mysql_secure_installation.txt 文件。
-	
+
 #### Test mysql login 測試mysql登入
 	sudo mysql -u root -p
 	Enter password: [root password]
 
 如果成功將顯示以下畫面，可執行任意的SQL code
-	
+
 	Welcome to the MariaDB monitor.  Commands end with ; or \g.
 	Your MariaDB connection id is 51
 	Server version: 10.1.34-MariaDB-0ubuntu0.18.04.1 Ubuntu 18.04
-	
+
 	Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
-	
+
 	Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
-	
-	MariaDB [(none)]> 
+
+	MariaDB [(none)]>
 
 此畫面中你可以使用SQL語法進行任何的操作(請自行搜尋SQL語法並在此自學)，如果要架設 WordPress 請先建立空的資料庫 (Database) 。  
 
 如果要離開請輸入 **exit** 。  
 
 	exit
-	
+
 ### Install and set up PHP. 安裝並設定 PHP (PHP-fpm)
-	
+
 #### Install php and php connect to mysql set.  
 #### 安裝 php 並且將 php 連接到 mysql ：  
 
 	sudo apt-get install php-fpm php-mysql
-	
+
 #### 查詢PHP版本號
 為了查詢php.ini的路徑，需要查詢版本號，請輸入以下指令：  
 
@@ -95,7 +95,7 @@ sql DB:MariaDB
 	Please ask your administrator.
 
 請留意此行：  
-	
+
 	apt install php7.2-cgi
 
 本文目前安裝的版本為 **PHP 7.2** 版本，含CGI功能(某些PHP框架會用到)，版本號會影響 php.ini 位置，請將版本號抄下來。  
@@ -122,7 +122,7 @@ VIM可輸入/搜尋關鍵字(字串)：
 	;cgi.fix_pathinfo=1
 
 此功能已被以分號 ; 註解，預設值為 1 表示 **啟用** 此功能，但若運行了還是會引發安全上的疑慮，能讓使用者對網站中的圖檔執行PHP腳本，將造成安全疑慮，詳情請自行搜索此參數，或閱讀文件註解上的網址。
-	
+
 請修改成以下內容，將分號去掉後，把 1 改成 0 關閉此功能：  
 
 	cgi.fix_pathinfo=0
@@ -185,7 +185,7 @@ VIM 編輯提示：
 
 	location ~ \.php$ {
 		include snippets/fastcgi-php.conf;
-		
+
 		# With php-fpm (or other unix sockets):
 		#請將以下路徑的php7.0fpm.sock改成php7.2-fpm.sock(或您目前查到的版本號),以符合目前版號
 		fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
@@ -214,7 +214,7 @@ VIM 編輯提示：
 #### 測試設定檔語法正確並重新啟動Nginx伺服器
 
 	sudo nginx -t
-	
+
 重啟Nginx伺服器
 
 	sudo systemctl reload nginx
@@ -250,7 +250,7 @@ VIM 編輯提示：
 刪除的方法(也可用FTP客戶端用SFTP連接到此路徑)：
 
 	sudo rm /var/www/html/info.php
-	
-### 大功告成 ! 
+
+### 大功告成 !
 
 現在環境已完整的建立成功 ! 此環境可拿來架設 [WordPress](https://wordpress.org/) 等CMS系統、也可以開發網站並使用框架建立服務等。
