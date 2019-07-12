@@ -98,3 +98,9 @@
 
     MariaDB [(none)]> UES <Your_database_name>;
     Database changed
+
+看到 **Database changed** 就表示 **此帳號能成功使用此資料庫**，表示你或者程式可使用此帳號操作此資料庫，因此可以直接登出了。
+
+若出現 ERROR ，請檢查設定權限的過程中是否漏掉 GRANT ALL PRIVILEGES ON 這一行的步驟，文章往上翻可找到設定方法。
+
+如果一切沒問題，可以直接登出帳號：
