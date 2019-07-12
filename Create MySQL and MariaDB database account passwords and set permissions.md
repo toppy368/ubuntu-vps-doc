@@ -26,9 +26,9 @@
 看到以上指令，原則尚可進行任何的SQL指令操作，但本次只操作新增資料庫與新增使用者的指令，其餘指令需請讀者自行搜尋sql資料庫相關知識。
 
 ### 建立新資料庫供服務使用
-請在此段落輸入指令：
-    MariaDB [(none)]>  
-    CREATE DATABASE <Your database name>;  
+請在此段落輸入指令：  
+
+    MariaDB [(none)]> CREATE DATABASE <Your database name>;  
     
 ### 建立新使用者帳號與設定密碼
 
