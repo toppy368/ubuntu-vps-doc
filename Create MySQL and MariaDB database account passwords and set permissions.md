@@ -93,3 +93,8 @@
     Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
     MariaDB [(none)]>
+
+### 使用該資料庫
+
+    MariaDB [(none)]> UES <Your_database_name>;
+    Database changed
