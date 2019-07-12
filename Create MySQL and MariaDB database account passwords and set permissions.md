@@ -50,7 +50,7 @@
     MariaDB [(none)]> CREATE USER 'Your_new_username'@'localhost' IDENTIFIED BY 'This_user_password';
     Query OK, 0 rows affected (0.00 sec)
 
-此行的 **'Your_new_username'** 為 **帳號** ， **'localhost'** 為 **主機ip** ，因為直接架設在此機器上所以會寫成localhost， **'This_user_password'** 為 **密碼** ，請依照自身需求設定帳號名稱，密碼建議越長越好。（對於"密碼長度月越長越好"這建議有疑問的讀者請自行搜尋強密碼）
+此行的 **'Your_new_username'** 為 **帳號** ， **'localhost'** 為 **主機ip** ，因為直接架設在此機器上所以會寫成localhost， **'This_user_password'** 為 **密碼** ，**請依照自身需求設定帳號名稱**，密碼建議越長越好。（對於"密碼長度月越長越好"這建議有疑問的讀者請自行搜尋強密碼）
 
 ### 設定新使用者可操作新資料庫相關權限
 
