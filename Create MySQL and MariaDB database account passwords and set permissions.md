@@ -8,7 +8,7 @@
 
 ### 以 root 密碼登入資料庫
     # mysql -u root -p  
-    Enter password: [root password]
+    Enter password: 
 
 這裡的 -u 表示帳號，root 為 Mysql 與開源分支的 MariaDB 預設的管理員帳號。
 **注意：** 預設狀態下，root 不需帳號密碼即可登入，出現 Enter password 可直接使用空白密碼以 Enter 登入。
