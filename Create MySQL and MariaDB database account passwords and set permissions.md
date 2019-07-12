@@ -47,7 +47,8 @@
 
 ### 建立新使用者帳號與設定密碼
 
-    CREATE USER 'Your_new_username'@'localhost' IDENTIFIED BY 'This_user_password';
+    MariaDB [(none)]> CREATE USER 'Your_new_username'@'localhost' IDENTIFIED BY 'This_user_password';
+    Query OK, 0 rows affected (0.00 sec)
 
 此行的 **'Your_new_username'** 為 **帳號** ， **'localhost'** 為 **主機ip** ，因為直接架設在此機器上所以會寫成localhost， **'This_user_password'** 為 **密碼**。
 
