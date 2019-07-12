@@ -54,7 +54,7 @@
 
 ### 設定新使用者可操作新資料庫相關權限
 
-    ariaDB [(none)]> GRANT ALL PRIVILEGES ON <Your_database_name>.* TO 'Your_new_username'@'localhost';  
+    MariaDB [(none)]> GRANT ALL PRIVILEGES ON <Your_database_name>.* TO 'Your_new_username'@'localhost';  
     Query OK, 0 rows affected (0.00 sec)
 
 ## 測試新帳號與新資料庫是否能正常使用
