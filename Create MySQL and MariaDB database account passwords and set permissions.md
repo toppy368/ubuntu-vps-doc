@@ -63,5 +63,12 @@
     MariaDB [(none)]> FLUSH PRIVILEGES;
     Query OK, 0 rows affected (0.00 sec)
 
+若沒有任何的錯誤訊息，也就是 ERROR XXXX 這類編號，可以直接登出資料庫進行測試。
+
+登出資料庫：
+  MariaDB [(none)]> exit
+  Bye
+
+提醒：建議請將剛才新增的帳號密碼抄起來再關閉終端機或下其他指令，避免遺忘。
 
 ## 測試新帳號與新資料庫是否能正常使用
