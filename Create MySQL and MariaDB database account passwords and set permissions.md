@@ -105,5 +105,5 @@
 
 如果一切沒問題，可以直接登出帳號：  
 
-  MariaDB [Your_database_name]> exit
-  Bye
+    MariaDB [Your_database_name]> exit
+    Bye
