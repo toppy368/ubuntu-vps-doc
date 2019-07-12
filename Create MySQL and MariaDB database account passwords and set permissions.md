@@ -57,6 +57,8 @@
     MariaDB [(none)]> GRANT ALL PRIVILEGES ON <Your_database_name>.* TO 'Your_new_username'@'localhost';  
     Query OK, 0 rows affected (0.00 sec)
 
+這一段是設定權限，設定資料庫可以讓某個使用者帳號登入並使用，因資料庫可能不只一個帳號，所以需要做這設定，指令中的 **<Your_database_name>** 為剛才新增的 **資料庫** ， **'Your_new_username'** 為 **使用者帳號**，請自行修改後執行此指令。
+
 更新權限表：  
     MariaDB [(none)]> FLUSH PRIVILEGES;
     Query OK, 0 rows affected (0.00 sec)
