@@ -31,20 +31,23 @@
     MariaDB [(none)]> CREATE DATABASE <Your_database_name>;  
     Query OK, 1 row affected (0.00 sec)
 
-請將範例中的 **<Your_database_name>** 變更為你想創造的資料庫名稱
+請將範例中的 **<Your_database_name>** 刪除<>符號，並變更為你想創造的資料庫名稱供網站或會使用此資料庫的程式使用。
 
-#### 指令成功與失敗的顯示畫面
+#### 小提示：指令成功與失敗的顯示畫面
 
-若成功將出現此行：  
+若指令下達成功將出現此行：    
     Query OK, 1 row affected (0.00 sec)
 
-若失敗將顯示類似指令：
+若失敗將顯示類似指令：  
     ERROR 1064 (42000): You have an error in your SQL syntax;...
+
+此行還會提示你是第幾行指令語法有問題等等，如果您常常下達sql指令，建議看看錯誤訊息詳細內容再修正，若只想進行本文章的操作，只需判斷此指令是否成功就好。
 
 ### 建立新使用者帳號與設定密碼
 
     CREATE USER 'Your_new_username'@'localhost' IDENTIFIED BY 'This_user_password';
 
+此行的 'Your_new_username' 為 **帳號** ， 'localhost' 為 **主機ip** ，因為直接架設在此機器上所以會寫成 localhost， 'This_user_password' 為 **密碼**。
 
 ### 設定新使用者可操作新資料庫相關權限
 
