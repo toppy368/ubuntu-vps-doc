@@ -75,7 +75,7 @@ sql DB:MariaDB
 	Query OK, 0 rows affected (0.00 sec)
 
 	MariaDB [(none)]> FLUSH PRIVILEGES;
-  Query OK, 0 rows affected (0.00 sec)
+	Query OK, 0 rows affected (0.00 sec)
 
 	MariaDB [(none)]> exit
 	Bye
