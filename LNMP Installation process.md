@@ -80,7 +80,7 @@ sql DB:MariaDB
 	MariaDB [(none)]> exit
 	Bye
 
-詳細說明請參考本專案的此文章，有每個操的詳細說明：
+詳細說明請參考本專案的此文章，有每個操作的詳細說明：
 [Create MySQL and MariaDB database account passwords and set permissions](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Create%20MySQL%20and%20MariaDB%20database%20account%20passwords%20and%20set%20permissions.md)
 
 #### Set mariadb secure Option 安裝 mariadb 安全選項：
