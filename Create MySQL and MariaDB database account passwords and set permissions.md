@@ -57,4 +57,9 @@
     MariaDB [(none)]> GRANT ALL PRIVILEGES ON <Your_database_name>.* TO 'Your_new_username'@'localhost';  
     Query OK, 0 rows affected (0.00 sec)
 
+更新權限表：  
+    MariaDB [(none)]> FLUSH PRIVILEGES;
+    Query OK, 0 rows affected (0.00 sec)
+
+
 ## 測試新帳號與新資料庫是否能正常使用
