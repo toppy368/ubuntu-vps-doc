@@ -64,14 +64,15 @@
 這一段是設定權限，設定資料庫可以讓某個使用者帳號登入並使用，因資料庫可能不只一個帳號，所以需要做這設定，指令中的 **<Your_database_name>** 為剛才新增的 **資料庫** ， **'Your_new_username'** 為 **使用者帳號**，請自行修改後執行此指令。
 
 更新權限表：  
+
     MariaDB [(none)]> FLUSH PRIVILEGES;
     Query OK, 0 rows affected (0.00 sec)
 
 若沒有任何的錯誤訊息，也就是 ERROR XXXX 這類編號，可以直接登出資料庫進行測試。
 
-登出資料庫：
+登出資料庫：  
+
   MariaDB [(none)]> exit
   Bye
-
 
 ## 測試新帳號與新資料庫是否能正常使用
