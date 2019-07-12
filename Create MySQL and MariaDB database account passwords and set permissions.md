@@ -29,14 +29,21 @@
 請在此段落輸入指令：  
 
     MariaDB [(none)]> CREATE DATABASE <Your_database_name>;  
-
-若成功將出現此行：  
     Query OK, 1 row affected (0.00 sec)
 
 請將範例中的 **<Your_database_name>** 變更為你想創造的資料庫名稱
 
+#### 指令成功與失敗的顯示畫面
+
+若成功將出現此行：  
+    Query OK, 1 row affected (0.00 sec)
+
+若失敗將顯示類似指令：
+    ERROR 1064 (42000): You have an error in your SQL syntax;...
+
 ### 建立新使用者帳號與設定密碼
 
+    CREATE USER 'Your_new_username'@'localhost' IDENTIFIED BY 'This_user_password';
 
 
 ### 設定新使用者可操作新資料庫相關權限
