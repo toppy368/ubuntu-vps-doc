@@ -77,7 +77,7 @@
 
 ## 測試新帳號與新資料庫是否能正常使用
 
-## 使用新帳號資料庫
+### 使用新帳號資料庫
 
     # mysql -u Your_new_username -p
     Enter password: This_user_password
