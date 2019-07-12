@@ -107,3 +107,8 @@
 
     MariaDB [Your_database_name]> exit
     Bye
+
+## 結論
+以上已說明了Mysql新增資料庫與帳號的相關權限設定，接下來可以進行其他的資料庫操作，無論是把帳號密碼套到程式上讓程式產生資料，或是直接用SQL指令建立資料都可以了。
+
+不過因為安全疑慮，建議在此步驟後將 root 帳號手動或使用 mysql_secure_installation 功能將資料庫做一些安全設定並刪除 root 帳號，可參考本專案的 [mysql_secure_installation.txt](https://github.com/toppy368/ubuntu-vps-doc/blob/master/mysql_secure_installation.txt) 文件。
