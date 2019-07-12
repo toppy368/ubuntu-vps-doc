@@ -28,9 +28,13 @@
 ### 建立新資料庫供服務使用
 請在此段落輸入指令：  
 
-    MariaDB [(none)]> CREATE DATABASE <Your database name>;  
-    
+    MariaDB [(none)]> CREATE DATABASE <Your_database_name>;  
+
+請將範例中的 **<Your_database_name>** 變更為你想創造的資料庫名稱
+
 ### 建立新使用者帳號與設定密碼
+
+
 
 ### 設定新使用者可操作新資料庫相關權限
 
