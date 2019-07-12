@@ -49,7 +49,7 @@
 
     CREATE USER 'Your_new_username'@'localhost' IDENTIFIED BY 'This_user_password';
 
-此行的 'Your_new_username' 為 **帳號** ， 'localhost' 為 **主機ip** ，因為直接架設在此機器上所以會寫成 localhost， 'This_user_password' 為 **密碼**。
+此行的 **'Your_new_username'** 為 **帳號** ， 'localhost' 為 **主機ip** ，因為直接架設在此機器上所以會寫成 localhost， 'This_user_password' 為 **密碼**。
 
 ### 設定新使用者可操作新資料庫相關權限
 
