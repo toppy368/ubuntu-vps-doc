@@ -48,6 +48,9 @@ sql DB:MariaDB
 
 **注意：** 安裝過程並沒有提示帳號密碼，也就是說 **此時資料庫的 root 帳號不需密碼就能登入** ，建議先新增一個同樣具有操作資料庫權限的帳號並刪除root帳號以策安全。
 
+#### 設定 Mysql 或 MariaDB 資料庫
+[Create MySQL and MariaDB database account passwords and set permissions](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Create%20MySQL%20and%20MariaDB%20database%20account%20passwords%20and%20set%20permissions.md)
+
 #### Set mariadb secure Option 安裝 mariadb 安全選項：
 	sudo mysql_secure_installation
 
