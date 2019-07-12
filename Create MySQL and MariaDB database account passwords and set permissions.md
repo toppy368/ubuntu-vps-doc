@@ -103,7 +103,7 @@
 
 若出現 ERROR ，請檢查設定權限的過程中是否漏掉 GRANT ALL PRIVILEGES ON 這一行的步驟，文章往上翻可找到設定方法。
 
-如果一切沒問題，可以直接登出帳號：
+如果一切沒問題，可以直接登出帳號：  
 
   MariaDB [Your_database_name]> exit
   Bye
