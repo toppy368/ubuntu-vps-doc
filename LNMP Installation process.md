@@ -49,6 +49,33 @@ sql DB:MariaDB
 **注意：** 安裝過程並沒有提示帳號密碼，也就是說 **此時資料庫的 root 帳號不需密碼就能登入** ，建議先新增一個同樣具有操作資料庫權限的帳號並刪除root帳號以策安全。
 
 #### 設定 Mysql 或 MariaDB 資料庫
+
+	# mysql -u root -p  
+	Enter password:
+
+	Welcome to the MariaDB monitor.  Commands end with ; or \g.  
+	Your MariaDB connection id is 41  
+	Server version: 10.1.40-MariaDB-0ubuntu0.18.04.1 Ubuntu 18.04  
+
+	Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.  
+
+	Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+	MariaDB [(none)]> CREATE DATABASE <Your_database_name>;  
+	Query OK, 1 row affected (0.00 sec)
+
+	MariaDB [(none)]> CREATE USER 'Your_new_username'@'localhost' IDENTIFIED BY 'This_user_password';
+	Query OK, 0 rows affected (0.00 sec)
+
+	MariaDB [(none)]> GRANT ALL PRIVILEGES ON <Your_database_name>.* TO 'Your_new_username'@'localhost';  
+	Query OK, 0 rows affected (0.00 sec)
+
+  MariaDB [(none)]> FLUSH PRIVILEGES;
+  Query OK, 0 rows affected (0.00 sec)
+
+	MariaDB [(none)]> exit
+	Bye
+
 [Create MySQL and MariaDB database account passwords and set permissions](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Create%20MySQL%20and%20MariaDB%20database%20account%20passwords%20and%20set%20permissions.md)
 
 #### Set mariadb secure Option 安裝 mariadb 安全選項：
