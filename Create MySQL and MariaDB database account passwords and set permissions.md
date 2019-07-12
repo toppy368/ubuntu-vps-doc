@@ -76,3 +76,20 @@
   Bye
 
 ## 測試新帳號與新資料庫是否能正常使用
+
+## 使用新帳號資料庫
+
+    # mysql -u Your_new_username -p
+    Enter password: This_user_password
+
+成功後：  
+
+    Welcome to the MariaDB monitor.  Commands end with ; or \g.
+    Your MariaDB connection id is 44
+    Server version: 10.1.40-MariaDB-0ubuntu0.18.04.1 Ubuntu 18.04
+
+    Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+    Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+    MariaDB [(none)]>
