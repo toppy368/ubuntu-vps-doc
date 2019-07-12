@@ -30,6 +30,9 @@
 
     MariaDB [(none)]> CREATE DATABASE <Your_database_name>;  
 
+若成功將出現此行：  
+    Query OK, 1 row affected (0.00 sec)
+
 請將範例中的 **<Your_database_name>** 變更為你想創造的資料庫名稱
 
 ### 建立新使用者帳號與設定密碼
