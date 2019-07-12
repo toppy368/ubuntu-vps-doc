@@ -50,8 +50,12 @@ sql DB:MariaDB
 
 #### 設定 Mysql 或 MariaDB 資料庫
 
+首先先登入：
+
 	# mysql -u root -p  
 	Enter password:
+
+然後新增資料庫、新增帳號與設定密碼，同時將設定新資料庫與新帳號的權限關係，以下為快速設定的方法：
 
 	Welcome to the MariaDB monitor.  Commands end with ; or \g.  
 	Your MariaDB connection id is 41  
@@ -70,12 +74,13 @@ sql DB:MariaDB
 	MariaDB [(none)]> GRANT ALL PRIVILEGES ON <Your_database_name>.* TO 'Your_new_username'@'localhost';  
 	Query OK, 0 rows affected (0.00 sec)
 
-  MariaDB [(none)]> FLUSH PRIVILEGES;
+	MariaDB [(none)]> FLUSH PRIVILEGES;
   Query OK, 0 rows affected (0.00 sec)
 
 	MariaDB [(none)]> exit
 	Bye
 
+詳細說明請參考本專案的此文章，有每個操的詳細說明：
 [Create MySQL and MariaDB database account passwords and set permissions](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Create%20MySQL%20and%20MariaDB%20database%20account%20passwords%20and%20set%20permissions.md)
 
 #### Set mariadb secure Option 安裝 mariadb 安全選項：
