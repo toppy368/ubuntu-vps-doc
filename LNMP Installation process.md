@@ -126,7 +126,12 @@ sql DB:MariaDB
 
 此畫面中你可以使用 SQL 語法進行任何的操作，接下來請下達指令使用剛才於 **設定 Mysql 或 MariaDB 資料庫** 章節中設定的新資料庫
 
-如果要離開請輸入 **exit** 。  
+#### 使用新資料庫
+
+	MariaDB [(none)]> UES <Your_database_name>;
+	Database changed
+
+此時成功出現 **Database changed** 表示前面設定權限已成功，可直接離開 (若失敗，因已刪除 SQL 伺服器的 root 管理員帳號，只能把伺服器砍掉重練，整份文件重新操作) ，如果要離開請輸入 **exit** 。  
 
 	exit
 
