@@ -120,7 +120,7 @@ sql DB:MariaDB
 	sudo apt-get install php-fpm php-mysql
 
 #### 查詢PHP版本號
-為了查詢php.ini的路徑，需要查詢版本號，請輸入以下指令：  
+為了查詢 php.ini 的路徑，需要查詢版本號，請輸入以下指令：  
 
 	php-cgi –version
 
@@ -135,7 +135,7 @@ sql DB:MariaDB
 
 	apt install php7.2-cgi
 
-本文目前安裝的版本為 **PHP 7.2** 版本，含CGI功能(某些PHP框架會用到)，版本號會影響 php.ini 位置，請將版本號抄下來。  
+本文目前安裝的版本為 **PHP 7.2** 版本，含 CGI 功能(某些 PHP 框架會用到)，版本號會影響 php.ini 位置，請將版本號抄下來。  
 
 **注意：** 若操作時的PHP版本不是 7.2 版，則請依照實際內容為主。
 
