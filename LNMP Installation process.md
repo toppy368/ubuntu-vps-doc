@@ -267,7 +267,7 @@ server_name _;
 
 	sudo vi /var/www/html/info.php
 
-#### 請新增以下PHP程式碼，將列出所有PHP版本細部資訊  
+#### 請新增以下 PHP 程式碼，此檔案將列出所有 PHP 版本細部資訊  
 
 	<?php
 	phpinfo();
