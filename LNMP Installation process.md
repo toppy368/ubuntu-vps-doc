@@ -94,7 +94,7 @@ sql DB:MariaDB
 	sudo mysql -u Your_new_username -p
 	Enter password:
 
-如果成功將顯示以下畫面，可執行任意的SQL code
+如果成功將顯示以下畫面，可執行任意的 SQL code
 
 	Welcome to the MariaDB monitor.  Commands end with ; or \g.
 	Your MariaDB connection id is 51
@@ -106,7 +106,7 @@ sql DB:MariaDB
 
 	MariaDB [(none)]>
 
-此畫面中你可以使用SQL語法進行任何的操作(請自行搜尋SQL語法並在此自學)，如果要架設 WordPress 請先建立空的資料庫 (Database) 。  
+此畫面中你可以使用 SQL 語法進行任何的操作(請自行搜尋SQL語法並在此自學)，如果要架設 WordPress 請先建立空的資料庫 ( Database ) 。  
 
 如果要離開請輸入 **exit** 。  
 
