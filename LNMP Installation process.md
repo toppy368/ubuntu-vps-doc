@@ -105,7 +105,7 @@ sql DB:MariaDB
 ### 測試 mysql 登入
 ### Test mysql login
 
-剛才在 **設定 Mysql 或 MariaDB 資料庫** 章節中已新增了新使用者帳號 Your_new_username ，同時又在 **Set mariadb secure Option 安裝 mariadb 安全選項** 章節中操作了 **mysql secure installation** 安全套件 **刪除了 root 帳號**，所以應該測試新帳號是否能登入並使用新增的資料庫 Your_database_name ，以確保資料庫能正常運作。
+剛才在 **設定 Mysql 或 MariaDB 資料庫** 章節中已新增了新使用者帳號 **Your_new_username** ，同時又在 **Set mariadb secure Option 安裝 mariadb 安全選項** 章節中操作了 **mysql secure installation** 安全套件 **刪除了 root 帳號**，所以應該測試新帳號是否能登入並使用新增的資料庫 **Your_database_name** ，以確保資料庫能正常運作。
 
 #### 以新使用者帳號登入 mariadb ：
 
