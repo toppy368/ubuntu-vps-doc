@@ -43,8 +43,10 @@ sql DB:MariaDB
 	Thank you for using nginx.
 
 
-### Install mariadb 安裝 mariadb (開源的SQL伺服器)：
+### Install mariadb 安裝 mariadb：
 	sudo apt-get install mariadb-server
+
+這次使用 mariadb 取代 MySQL ，這是開源的 SQL 伺服器，可以當成 Fork 分支出來的版本。
 
 **注意：** 安裝過程並沒有提示帳號密碼，也就是說 **此時資料庫的 root 帳號不需密碼就能登入** ，建議先新增一個同樣具有操作資料庫權限的帳號並刪除root帳號以策安全。
 
