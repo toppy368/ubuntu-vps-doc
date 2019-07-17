@@ -194,9 +194,9 @@ VIM 編輯提示：
 
 請改成以下結果  
 
-	server_name [Your host ip or Domain Name];
+	server_name [Your host ip or Domain Name];  
 
-[] 內的內容請用主機的IP或是網域名稱取代，如果已申請網域，請在DNS上新增A記錄並填上主機的IP，設定完畢後，任何使用者都可以使用網域名稱連接本伺服器的網站。
+[] 內的內容請用主機的 IP 或是 網域名稱 取代，如果已申請網域，請在 DNS 上新增A記錄並填上主機的 IP ，設定完畢後，任何使用者都可以使用網域名稱連接本伺服器的網站。
 
 
 #### 設定 NGINX 連接到 php-fpm 的方法。
