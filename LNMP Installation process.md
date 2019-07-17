@@ -104,6 +104,11 @@ sql DB:MariaDB
 
 ### 測試 mysql 登入
 ### Test mysql login
+
+剛才的設定已經刪除了 root 帳號且新增了新使用者帳號 Your_new_username，所以應該測試新帳號是否能登入並使用新增的資料庫 Your_database_name ，以確保資料庫能正常運作。
+
+#### 以新使用者帳號登入 mariadb ：
+
 	mysql -u Your_new_username -p
 	Enter password:
 
@@ -119,7 +124,7 @@ sql DB:MariaDB
 
 	MariaDB [(none)]>
 
-此畫面中你可以使用 SQL 語法進行任何的操作 ( 請自行搜尋 SQL 語法並在此自學 ) ，如果要架設 WordPress 請先建立空的資料庫 ( Database ) 。  
+此畫面中你可以使用 SQL 語法進行任何的操作
 
 如果要離開請輸入 **exit** 。  
 
