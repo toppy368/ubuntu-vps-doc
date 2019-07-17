@@ -313,4 +313,4 @@ server_name _;
 
 ### 大功告成 !
 
-現在環境已完整的建立成功 ! 此環境可拿來架設 [WordPress](https://wordpress.org/) 等CMS系統、也可以開發網站並使用框架建立服務等。
+現在環境已完整的建立成功 ! 此環境可拿來架設 [WordPress](https://wordpress.org/) 等 CMS 系統、也可以開發網站並使用框架建立服務等。
