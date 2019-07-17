@@ -263,7 +263,7 @@ server_name _;
 
 	/var/www/html
 
-#### 使用VIM新增 phpinfo.php
+#### 使用 VIM 新增 phpinfo.php 檔案
 
 	sudo vi /var/www/html/info.php
 
