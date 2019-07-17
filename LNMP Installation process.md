@@ -8,7 +8,7 @@ sql DB:MariaDB
 
 ### 安裝流程簡介
 
-	檢查主機更新與設定 → 安裝與設定Nginx → 安裝SQL伺服器(MariaDB或Mysql都可，推薦前者) → 設定SQL密碼與其他安全選項 → 安裝並設定PHP-fpm → 完成
+	檢查主機更新與設定 → 安裝與設定 Nginx → 安裝SQL伺服器( MariaDB 或 Mysql 都可，推薦前者) → 設定SQL密碼與其他安全選項 → 安裝並設定 PHP - fpm → 完成
 
 為了方便初學者理解以下這些步驟在做什麼，這裡提供上方的簡化流程。
 
