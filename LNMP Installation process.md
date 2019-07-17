@@ -224,7 +224,7 @@ server_name _;
 		include snippets/fastcgi-php.conf;
 
 		# With php-fpm (or other unix sockets):
-		#請將以下路徑的php7.0fpm.sock改成php7.2-fpm.sock(或您目前查到的版本號),以符合目前版號
+		# 請將以下路徑的 php7.0fpm.sock 改成 php7.2-fpm.sock (或您目前查到的版本號) ,以符合目前版號
 		fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
     }
 
