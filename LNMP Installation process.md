@@ -230,8 +230,8 @@ server_name _;
 
 **注意：** 範例設定檔的版本為 **PHP 7.0 fpm** 版，已經不合乎目前裝的最新版本 **PHP 7.2 fpm** ，請留意此行並修改成您目前安裝的版本號
 
-#### 設定讓Nginx取消存取.hatccess  
-此段落已說明此設定的用意：如果此Nginx伺服器的根目錄與Apache跟目錄相同時，拒絕存取 .hatccess 檔
+#### 設定讓 Nginx 取消存取 .hatccess  
+此段落已說明此設定的用意：如果此 Nginx 伺服器的根目錄與 Apache 跟目錄相同時，拒絕存取 .hatccess 檔
 
 	# deny access to .htaccess files, if Apache's document root
     # concurs with nginx's one
@@ -248,18 +248,18 @@ server_name _;
 
 最後文件存檔後離開
 
-#### 測試設定檔語法正確並重新啟動Nginx伺服器
+#### 測試設定檔語法正確並重新啟動 Nginx 伺服器
 
 	sudo nginx -t
 
-重啟Nginx伺服器
+重啟 Nginx 伺服器
 
 	sudo systemctl reload nginx
 
 
-### 新增 info.php 測試PHP是否順利完成安裝
+### 新增 info.php 測試 PHP 是否順利完成安裝
 
-網頁伺服器根目錄如下：(在Ubunut下，Nginx與Apache都是同一個)  
+網頁伺服器根目錄如下：(在 Ubunut 下， Nginx 與 Apache 都是同一個路徑)  
 
 	/var/www/html
 
