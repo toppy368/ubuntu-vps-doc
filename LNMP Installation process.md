@@ -189,8 +189,9 @@ VIM 編輯提示：
 	index.php
 
 #### 指定URL的IP位置或網域  
-
+```
 	server_name _;
+```
 
 請改成以下結果  
 
