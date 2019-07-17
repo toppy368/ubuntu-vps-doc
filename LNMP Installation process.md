@@ -103,7 +103,7 @@ sql DB:MariaDB
 **注意：** 關於 mysql secure installation 安全套件的詳細說明與中文簡譯請參考本專案的 [mysql_secure_installation.txt](https://github.com/toppy368/ubuntu-vps-doc/blob/master/mysql_secure_installation.txt) 文件。
 
 #### Test mysql login 測試 mysql 登入
-	sudo mysql -u Your_new_username -p
+	mysql -u Your_new_username -p
 	Enter password:
 
 如果成功將顯示以下畫面，可執行任意的 SQL code
