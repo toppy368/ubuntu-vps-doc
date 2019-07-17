@@ -90,7 +90,7 @@ sql DB:MariaDB
 
 **注意：** 關於 mysql secure installation 安全套件的詳細說明與中文簡譯請參考本專案的 [mysql_secure_installation.txt](https://github.com/toppy368/ubuntu-vps-doc/blob/master/mysql_secure_installation.txt) 文件。
 
-#### Test mysql login 測試mysql登入
+#### Test mysql login 測試 mysql 登入
 	sudo mysql -u Your_new_username -p
 	Enter password:
 
@@ -284,7 +284,7 @@ server_name _;
 **注意：** 此頁面將顯示主機內 PHP 的所有 API 與詳細設定的版本與功能資訊，此資訊可能會讓使用者嘗試存取網站內可能的漏洞，具安全疑慮，建議將本檔案刪除。
 
 
-刪除的方法(也可用FTP客戶端用SFTP連接到此路徑)：
+刪除的方法 (也可用 FTP 客戶端用 SFTP 連接到此路徑)：
 
 	sudo rm /var/www/html/info.php
 
