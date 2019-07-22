@@ -15,3 +15,10 @@
     tar -xzvf wordpress-5.2.2-zh_TW.tar.gz  
 
 接下來請修改nginx根目錄位置並填寫 wp-config.php 以完成安裝， wp-config.php 的填寫方法請對照 wp-config-sample.php 。（日後繼續更新此檔將說明）
+
+
+#### 設定權限
+
+若 WordPress 在安裝與更新套件過程中提示需要填入連線資訊，表示該程式沒有取得對外下載檔案的權限，此時應該設定權限
+
+    sudo chown -R www-data:www-data /var/www/html
