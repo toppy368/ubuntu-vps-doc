@@ -1,7 +1,8 @@
 #  快速安裝 WordPress
 
 ## 前置條件
- 請安裝 LAMP 或 LNMP 網頁伺服器
+ 1. 請安裝 LAMP 或 LNMP 網頁伺服器
+ 2. 請設定好 SQL 帳號並產生空的資料庫， WordPress 的安裝過程中，或填寫  wp-config.php 時需要這些連線資訊。
 
 ## 下載 WordPress  
 
