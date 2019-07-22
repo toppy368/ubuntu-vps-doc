@@ -9,3 +9,6 @@
     cd /var/www/html
 
 ### 下載並解壓縮
+
+    wget https://tw.wordpress.org/wordpress-5.2.2-zh_TW.tar.gz  
+    tar -xzvf wordpress-5.2.2-zh_TW.tar.gz  
