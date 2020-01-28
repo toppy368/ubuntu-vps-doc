@@ -9,6 +9,9 @@
 **Software** 請填寫你網站運作在那種網頁伺服器，可能是 Apache 也可能是 Nginx  
 **System** 請填寫這網站坐在哪個作業系統上
 
+之後請按照bot給你的說明步驟進行操作，如有不懂可靠翻譯軟體輔助  
+執行完畢後也注意說明 **IMPORTANT NOTES:** ，這將告訴你必要的注意事項
+
 ## 事後測試憑證是否正常運作
 請執行這一條
 **sudo certbot renew --dry-run**
