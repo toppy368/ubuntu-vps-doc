@@ -36,7 +36,17 @@
 
     /var/log
 
+PHP 紀錄的存放位置
 
+    /var/log/php7.x-fpm.log
+
+Nginx 錯誤紀錄存放位置
+
+    /var/log/nginx/error.log
+
+Nginx 網站訪問紀錄的存取位置
+
+    /var/log/nginx/access.log
 
 
 ## 疑難排解：Nginx  設定相關注意事項
