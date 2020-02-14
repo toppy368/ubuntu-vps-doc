@@ -28,7 +28,8 @@
     sudo chown -R www-data:www-data /var/www/html
 
 ## 疑難排解：Nginx  設定相關注意事項
-### Nginx 設定檔位置    
+### Nginx  設定相關注意事項
+#### Nginx 設定檔位置    
 
     /etc/nginx/sites-available/default
 
@@ -48,10 +49,12 @@
               try_files $uri $uri/ /index.php?$args;
     }
 
-之後請記得將本文件存檔並檢查錯誤並重新啟動
+之後請記得將本文件存檔
+
+#### 檢查 nginx 設定檔是否有錯誤的指令  
 
     sudo nginx -t
 
-重新啟動 Nginx  
+#### 重新啟動 Nginx  
 
     sudo systemctl reload nginx
