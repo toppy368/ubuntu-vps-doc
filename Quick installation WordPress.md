@@ -42,14 +42,19 @@ PHP 紀錄的存放位置
 
     /var/log/php7.x-fpm.log
 
+這裡 7.x 請依照實際需求對照，若你的版本為 7.2 就會顯示 php7.2fpm.log ，依此類推。
+
 Nginx 錯誤紀錄存放位置
 
     /var/log/nginx/error.log
+
+錯誤紀錄， Nginx 的異常資訊，甚至是部份 PHP 的異常也會顯示在這檔案
 
 Nginx 網站訪問紀錄的存取位置
 
     /var/log/nginx/access.log
 
+訪問紀錄，俗稱電磁紀錄，可以知道哪些ip開啟了網站的哪些功能。
 
 ## 疑難排解：Nginx  設定相關注意事項
 
