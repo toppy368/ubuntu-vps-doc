@@ -26,9 +26,13 @@
               try_files $uri $uri/ /index.php?$args;
     }
 
-之後請記得將本文件存檔並檢查錯誤
+之後請記得將本文件存檔並檢查錯誤並重新啟動
 
     sudo nginx -t
+
+重新啟動 Nginx  
+
+    sudo systemctl reload nginx
 
 ## 下載 WordPress  
 
