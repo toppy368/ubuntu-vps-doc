@@ -16,7 +16,7 @@
 
 #### 設定固定網址  
 請找到 **location / {**，並修改以下內容  
-    try_files $uri $uri/ /index.php?$args;
+      try_files $uri $uri/ /index.php?$args;
 
  修改之後大概繪像這樣  
     location / {
