@@ -8,7 +8,9 @@
 建議根據 [Nginx 官網的 WordPress 說明文件](https://www.nginx.com/resources/wiki/start/topics/recipes/wordpress/ )  設定 Nginx 設定檔
 
 Nginx 設定檔位置    
-      /etc/nginx/sites-available/default
+
+    wget Hello World; (此為錯誤請勿執行)
+
 
 你可以選擇用vi或其他編輯器打開此文件，此文件大部分的內容都有英文註解說明每個設定的用途，如果不懂可參考此專案的 [LNMP Installation process](https://github.com/toppy368/ubuntu-vps-doc/blob/master/LNMP%20Installation%20process.md) 文件檔，其中的 **設定Nginx** 章節會有設定內容的大部分詳細說明
 
