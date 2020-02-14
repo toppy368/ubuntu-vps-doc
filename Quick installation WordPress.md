@@ -55,3 +55,5 @@
 若 WordPress 在安裝與更新套件過程中提示需要填入連線資訊，表示該程式沒有取得對外下載檔案的權限，此時應該設定權限
 
     sudo chown -R www-data:www-data /var/www/html
+
+## 疑難排解：Nginx  設定相關注意事項
