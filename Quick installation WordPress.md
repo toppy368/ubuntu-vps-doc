@@ -19,7 +19,7 @@
 
     try_files $uri $uri/ /index.php?$args;
 
- 修改之後大概繪像這樣  
+ 修改之後大概會像這樣  
 
     location / {
               # WordPress permalinks setup.
