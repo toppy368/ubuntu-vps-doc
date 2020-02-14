@@ -6,7 +6,32 @@
 
 ### Nginx  設定相關注意事項
 
-#### Nginx 設定檔位置    
+
+
+## 下載 WordPress  
+
+###  切換到網站根目錄
+    cd /var/www/html
+
+### 下載並解壓縮
+
+    wget https://tw.wordpress.org/wordpress-5.2.2-zh_TW.tar.gz  
+    tar -xzvf wordpress-5.2.2-zh_TW.tar.gz  
+
+請將下載網址更新成官網的最新版本
+最新版本請參考此頁面：https://tw.wordpress.org/download/releases/  
+
+接下來請修改nginx根目錄位置並填寫 wp-config.php 以完成安裝， wp-config.php 的填寫方法請對照 wp-config-sample.php 。（日後繼續更新此檔將說明）
+
+
+#### 設定權限
+
+若 WordPress 在安裝與更新套件過程中提示需要填入連線資訊，表示該程式沒有取得對外下載檔案的權限，此時應該設定權限
+
+    sudo chown -R www-data:www-data /var/www/html
+
+## 疑難排解：Nginx  設定相關注意事項
+### Nginx 設定檔位置    
 
     /etc/nginx/sites-available/default
 
@@ -33,27 +58,3 @@
 重新啟動 Nginx  
 
     sudo systemctl reload nginx
-
-## 下載 WordPress  
-
-###  切換到網站根目錄
-    cd /var/www/html
-
-### 下載並解壓縮
-
-    wget https://tw.wordpress.org/wordpress-5.2.2-zh_TW.tar.gz  
-    tar -xzvf wordpress-5.2.2-zh_TW.tar.gz  
-
-請將下載網址更新成官網的最新版本
-最新版本請參考此頁面：https://tw.wordpress.org/download/releases/  
-
-接下來請修改nginx根目錄位置並填寫 wp-config.php 以完成安裝， wp-config.php 的填寫方法請對照 wp-config-sample.php 。（日後繼續更新此檔將說明）
-
-
-#### 設定權限
-
-若 WordPress 在安裝與更新套件過程中提示需要填入連線資訊，表示該程式沒有取得對外下載檔案的權限，此時應該設定權限
-
-    sudo chown -R www-data:www-data /var/www/html
-
-## 疑難排解：Nginx  設定相關注意事項
