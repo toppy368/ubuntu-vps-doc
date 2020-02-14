@@ -14,6 +14,10 @@
 
 另外如果 WordPress 的設定修改其中的內容，建議根據 [Nginx 官網的 WordPress 說明文件](https://www.nginx.com/resources/wiki/start/topics/recipes/wordpress/ )  設定 Nginx 設定檔
 
+#### 設定固定網址
+
+  test
+
 ## 下載 WordPress  
 
 ###  切換到網站根目錄
