@@ -15,10 +15,10 @@
 另外如果 WordPress 的設定修改其中的內容，建議根據 [Nginx 官網的 WordPress 說明文件](https://www.nginx.com/resources/wiki/start/topics/recipes/wordpress/ )  設定 Nginx 設定檔
 
 #### 設定固定網址  
-請找到 **location / {**，並修改以下內容
+請找到 **location / {**，並修改以下內容  
     try_files $uri $uri/ /index.php?$args;
 
- 修改之後大概繪像這樣
+ 修改之後大概繪像這樣  
     location / {
               # WordPress permalinks setup.
               try_files $uri $uri/ /index.php?$args;
