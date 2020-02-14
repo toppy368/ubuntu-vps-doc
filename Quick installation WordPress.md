@@ -27,7 +27,7 @@
 
     sudo chown -R www-data:www-data /var/www/html
 
-## 疑難排解：Nginx  設定相關注意事項
+## 疑難排解
 ### Nginx  設定相關注意事項
 #### Nginx 設定檔位置    
 
