@@ -27,7 +27,11 @@
 
     sudo chown -R www-data:www-data /var/www/html
 
-## 疑難排解
+## 疑難排解：若發生錯誤，各種錯誤紀錄的存放地點
+## 疑難排解：Nginx  設定相關注意事項
+
+
+
 ### Nginx  設定相關注意事項
 #### Nginx 設定檔位置    
 
