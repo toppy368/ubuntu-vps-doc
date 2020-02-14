@@ -26,7 +26,9 @@
               try_files $uri $uri/ /index.php?$args;
     }
 
+之後請記得將本文件存檔並檢查錯誤
 
+    sudo nginx -t
 
 ## 下載 WordPress  
 
