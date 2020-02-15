@@ -8,4 +8,6 @@
 
 * [Quick installation WordPress.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Quick%20installation%20WordPress.md)：安裝完網頁伺服器後，安裝WordPress的教學  
 
+* [mysql backup & Import.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/mysql%20backup%20%26%20Import.mds)
+
 ## Hello world
