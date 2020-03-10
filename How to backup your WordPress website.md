@@ -27,3 +27,4 @@
 ## 手動備份解說 (會睡著建議簡單帶過或省略)
 
 ## UpdraftPlus 備份套件展示 (Demo時間)
+官方下載網址：https://wordpress.org/plugins/updraftplus/
