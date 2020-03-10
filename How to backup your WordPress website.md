@@ -35,7 +35,7 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 
 ## WordPress 內容物與需要備份那些內容
 * ~~WordPress 主程式~~ ：WordPress主程式的PHP部分，不需備份此程式，因為 [WordPress.org](https://tw.wordpress.org/download/) 官網就有最新版本，直接下載最新版本吧 ! 
-* SQL 資料庫：網站的文章、套件設定與會員資料都會儲存在資料庫中，此為重要資料請一定要備份出來 ! 
+* SQL 資料庫：**網站的文章、套件設定與會員資料都會儲存在資料庫中** ，此為重要資料請一定要備份出來 ! 
     * XML 資料：正式名稱為 WordPress eXtended RSS (WXR)，可作為SQL資料的替代品，WordPress主選單下的 `工具 > 匯出程式` 可以找到 匯出XML 的選項，要匯入請於空的網站尋找 `工具 > 匯入程式` 即可匯入XML。
 * 媒體庫、套件與佈景主題：
     * 媒體庫：這通常 **儲存文章的圖片與影片** ，通常 WordPress 預設的路徑為 `/<你的 WordPress 網站目錄>wp-content/uploads/`，但如果有變更媒體庫的位置，或把圖片放在另一個圖床伺服器，請以變更後的路徑為主。
