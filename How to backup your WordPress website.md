@@ -34,7 +34,7 @@
 [https://www.ettoday.net/news/20161015/793872.htm](陰謀論？清大天才博士生遭撞死　嫌燒毀「論文筆電」今自殺 | ETtoday生活 | ETtoday新聞雲)
 
 ## WordPress 內容物與需要備份那些內容
-* ~~WordPress 主程式~~ ： [https://tw.wordpress.org/download/](WordPress.org) 官網都有，直接下載最新版本吧 ! 
+* ~~WordPress 主程式~~ ：WordPress主程式的PHP部分，不須備份此程式，因為 [https://tw.wordpress.org/download/](WordPress.org) 官網就有最新版本，直接下載最新版本吧 ! 
 * SQL 資料庫：
 * 媒體庫與套件：
 * 網站、主機的各種設定：
