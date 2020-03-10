@@ -29,9 +29,9 @@
 第一章圖片可用素材：
 https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 
-第二張圖片可用素材：
-[實驗中iPad不翼而飛！清大研究生一看定位傻眼　在75公里外光華商場 | ETtoday社會 | ETtoday新聞雲](https://www.ettoday.net/news/20191222/1607799.htm)
-[陰謀論？清大天才博士生遭撞死　嫌燒毀「論文筆電」今自殺 | ETtoday生活 | ETtoday新聞雲](https://www.ettoday.net/news/20161015/793872.htm)
+第二張圖片可用素材：  
+* [實驗中iPad不翼而飛！清大研究生一看定位傻眼　在75公里外光華商場 | ETtoday社會 | ETtoday新聞雲](https://www.ettoday.net/news/20191222/1607799.htm)
+* [陰謀論？清大天才博士生遭撞死　嫌燒毀「論文筆電」今自殺 | ETtoday生活 | ETtoday新聞雲](https://www.ettoday.net/news/20161015/793872.htm)
 
 ## WordPress 內容物與需要備份那些內容
 * ~~WordPress 主程式~~ ：WordPress主程式的PHP部分，不須備份此程式，因為 [https://tw.wordpress.org/download/](WordPress.org) 官網就有最新版本，直接下載最新版本吧 ! 
