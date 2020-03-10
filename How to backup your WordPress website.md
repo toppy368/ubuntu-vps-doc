@@ -35,6 +35,9 @@
 
 ## WordPress 內容物與需要備份那些內容
 * ~~WordPress 主程式~~ ： [https://tw.wordpress.org/download/](WordPress.org) 官網都有，直接下載最新版本吧 ! 
+* SQL 資料庫：
+* 媒體庫與套件：
+* 網站、主機的各種設定：
 
 ## 手動備份解說 (會睡著建議簡單帶過或省略)
 
