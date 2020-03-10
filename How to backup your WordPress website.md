@@ -41,7 +41,7 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
     * 媒體庫：這通常 **儲存文章的圖片與影片** ，通常 WordPress 預設的路徑為 `/<你的 WordPress 網站目錄>wp-content/uploads/`，但如果有變更媒體庫的位置，或把圖片放在另一個圖床伺服器，請以變更後的路徑為主。
     * 套件：路徑為 `/<你的 WordPress 網站目錄>/wp-content/plugins`。
     * 佈景主題：路徑為 `/<你的 WordPress 網站目錄>/wp-content/themes`。
-* 網站、主機的各種設定：最重要的內容是`wp-config.php`裏頭儲存的主機位置與密碼等設定，如果你有使用 `SSH KEY` 或 `https 的憑證` 也請備份起來。
+* 網站、主機的各種設定：最重要的內容是`wp-config.php`裏頭儲存的主機位置與密碼等設定(也包含 WordPress 帳密)，如果你有使用 `SSH KEY` 或 `https 的憑證` 也請備份起來，避免進不去舊主機。
 
 ## 手動備份解說 (會睡著建議簡單帶過或省略)
 
