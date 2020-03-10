@@ -20,3 +20,10 @@
 直接使用Git的方式進行操作即可，舉例來說：
 * 若要提報文章錯誤內容：請提出 issue 。
 * 若要申請修正或新增內容：請直接提出 pull request ，根據此運作原理，修改內容會經過審核，確認無誤後會將你的更新內容加入且合併進本案子中 (此動作稱為 Merge )，若內容有誤則會退回申請。
+
+## 此處有坑洞，需要路平專案照顧，請小心請勿跌進去
+
+* Install Composer and Laravel：Laravel 的教學
+* 合併以下專案，合併完成後以下專案將 **刪除** ：
+    * [VPS-HELP](https://github.com/toppy368/VPS-HELP)
+    * [phpMyAdmin_help](https://github.com/toppy368/phpMyAdmin_help)
