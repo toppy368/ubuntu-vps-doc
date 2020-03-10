@@ -27,7 +27,7 @@
     作者提示：這兩張圖需要說明狡兔有三窟的原因，同時需要檢查是否為CC0授權的圖檔或新聞圖檔 (註：CC0等於公共領域，至於新聞則是因為單純描述新聞內容不受著作權保護)
 
 第一章圖片可用素材：
-(https://zh.wikipedia.org/wiki/%E6%92%9E%E6%93%8A%E4%BA%8B%E4%BB%B6#/media/File:Impact_event.jpg)[藝術家筆下的星體撞擊事件。地球受到一個直徑數公里小行星撞擊時釋放出的能量相當於數百萬個核武同時爆炸。]
+![維基百科的 File:Impact event.jpg](https://zh.wikipedia.org/wiki/File:Impact_event.jpg)
 
 第二張圖片可用素材：
 [https://www.ettoday.net/news/20191222/1607799.htm](實驗中iPad不翼而飛！清大研究生一看定位傻眼　在75公里外光華商場 | ETtoday社會 | ETtoday新聞雲) 
