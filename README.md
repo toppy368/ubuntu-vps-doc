@@ -23,7 +23,7 @@
 
 ## 此處有坑洞，需要路平專案照顧，請小心請勿跌進去
 
-* Install Composer and Laravel：Laravel 的教學
+* [Install Composer and Laravel](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Install%20Composer%20and%20Laravel.md)：Laravel 的教學，未完待續。
 * 合併以下專案，合併完成後以下專案將 **刪除** ：
     * [VPS-HELP](https://github.com/toppy368/VPS-HELP)
     * [phpMyAdmin_help](https://github.com/toppy368/phpMyAdmin_help)
