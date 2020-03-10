@@ -10,4 +10,6 @@
 
 * [mysql backup & Import.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/mysql%20backup%20%26%20Import.mds)：資料庫的匯入匯出說明。
 
-## Hello world
+## License
+
+## 如何貢獻
