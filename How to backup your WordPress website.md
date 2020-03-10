@@ -35,7 +35,7 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 
 ## WordPress 內容物與需要備份那些內容
 * ~~WordPress 主程式~~ ：WordPress主程式的PHP部分，不需備份此程式，因為 [WordPress.org](https://tw.wordpress.org/download/) 官網就有最新版本，直接下載最新版本吧 ! 
-* SQL 資料庫：
+* SQL 資料庫：網站的文章、套件設定與會員資料都會儲存在資料庫中，此為重要資料請一定要備份出來 ! 
 * 媒體庫與套件：
 * 網站、主機的各種設定：
 
