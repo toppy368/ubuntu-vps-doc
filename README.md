@@ -11,7 +11,9 @@
 * [mysql backup & Import.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/mysql%20backup%20%26%20Import.mds)：資料庫的匯入匯出說明。
 
 ## License
-本專案為 MIT LICENSE 著作權授權合約，詳細授權合約內容請參考本專案的 LICENSE 檔案。
+本專案為 MIT LICENSE 著作權授權合約，詳細授權合約內容請參考本專案的 LICENSE 檔案。  
+
+這是一份自由軟體許可證其中之一，關於開放文化與自由軟體相關的說明可參考 [自由軟體 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6)，關於 MIT LICENSE 的詳細說明請參考 [MIT授權條款 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89) 。
 
 ## 如何貢獻
 
