@@ -29,6 +29,8 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 * [陰謀論？清大天才博士生遭撞死　嫌燒毀「論文筆電」今自殺 | ETtoday生活 | ETtoday新聞雲](https://www.ettoday.net/news/20161015/793872.htm)
 
 ## WordPress 需要備份那些內容
+> 編輯備註：編輯簡報時，請將路徑移動到手動備份解說，此章節只說明重點不說明用途
+
 * ~~WordPress 主程式~~ ：WordPress主程式的PHP部分，不需備份此程式，因為 [WordPress.org](https://tw.wordpress.org/download/) 官網就有最新版本，直接下載最新版本吧 ! 
 * SQL 資料庫：**網站的文章、套件設定與會員資料都會儲存在資料庫中** ，此為重要資料請一定要備份出來 ! 
     * XML 資料：正式名稱為 WordPress eXtended RSS (WXR)，可作為SQL資料的替代品，WordPress主選單下的 `工具 > 匯出程式` 可以找到 匯出XML 的選項，要匯入請於空的網站尋找 `工具 > 匯入程式` 即可匯入XML。
@@ -37,8 +39,6 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
     * 套件：路徑為 `/<你的 WordPress 網站目錄>/wp-content/plugins`。
     * 佈景主題：路徑為 `/<你的 WordPress 網站目錄>/wp-content/themes`。
 * 網站、主機的各種設定：最重要的內容是`wp-config.php`裏頭儲存的主機位置與密碼等設定(也包含 WordPress 帳密)，如果你有使用 `SSH KEY` 或 `https 的憑證` 也請備份起來，避免進不去舊主機。
-
-> 編輯備註：編輯簡報時，請將路徑移動到手動備份解說，此章節只說明重點不說明用途
 
 ## 手動備份解說 (會睡著建議簡單帶過或省略)
 
