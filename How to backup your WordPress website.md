@@ -43,5 +43,9 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 ## 手動備份解說 (會睡著建議簡單帶過或省略)
 > 編輯備註：編輯簡報時請區分簡介與詳解的內容，此段可視情況刪減
 
+### 虛擬主機備份法
+
+### VPS 雲端主機備份法
+
 ## UpdraftPlus 備份套件展示 (Demo時間)
 官方下載網址：https://wordpress.org/plugins/updraftplus/
