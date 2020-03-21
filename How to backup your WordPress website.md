@@ -41,6 +41,7 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 * 網站、主機的各種設定：最重要的內容是`wp-config.php`裏頭儲存的主機位置與密碼等設定(也包含 WordPress 帳密)，如果你有使用 `SSH KEY` 或 `https 的憑證` 也請備份起來，避免進不去舊主機。
 
 ## 手動備份解說 (會睡著建議簡單帶過或省略)
+> 編輯備註：編輯簡報時請區分簡介與詳解的內容，此段可視情況刪減
 
 ## UpdraftPlus 備份套件展示 (Demo時間)
 官方下載網址：https://wordpress.org/plugins/updraftplus/
