@@ -48,6 +48,7 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 虛擬主機通常會給你cPlane等網站管理後臺，這些後臺通常也有檔案備份工具，因為各主機商提供的面板有差異，詳情請利用線上客服或客服表單詢問。
 
 ### VPS 雲端主機備份法
+> 編輯備註：請家需要備份那些內容的細部項目與路徑直接移動過來
 
 ## UpdraftPlus 備份套件展示 (Demo時間)
 官方下載網址：https://wordpress.org/plugins/updraftplus/
