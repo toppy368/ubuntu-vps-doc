@@ -33,7 +33,7 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 * [實驗中iPad不翼而飛！清大研究生一看定位傻眼　在75公里外光華商場 | ETtoday社會 | ETtoday新聞雲](https://www.ettoday.net/news/20191222/1607799.htm)
 * [陰謀論？清大天才博士生遭撞死　嫌燒毀「論文筆電」今自殺 | ETtoday生活 | ETtoday新聞雲](https://www.ettoday.net/news/20161015/793872.htm)
 
-## WordPress 內容物與需要備份那些內容
+## WordPress 需要備份那些內容
 * ~~WordPress 主程式~~ ：WordPress主程式的PHP部分，不需備份此程式，因為 [WordPress.org](https://tw.wordpress.org/download/) 官網就有最新版本，直接下載最新版本吧 ! 
 * SQL 資料庫：**網站的文章、套件設定與會員資料都會儲存在資料庫中** ，此為重要資料請一定要備份出來 ! 
     * XML 資料：正式名稱為 WordPress eXtended RSS (WXR)，可作為SQL資料的替代品，WordPress主選單下的 `工具 > 匯出程式` 可以找到 匯出XML 的選項，要匯入請於空的網站尋找 `工具 > 匯入程式` 即可匯入XML。
