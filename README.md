@@ -34,5 +34,3 @@
     * [VPS-HELP](https://github.com/toppy368/VPS-HELP)
     * [phpMyAdmin_help](https://github.com/toppy368/phpMyAdmin_help)
 * 專案L10n並Wiki化：讓本專案有容納基於同樣說明但多種語言方便各國人士閱讀的空間，同時Wiki化讓非Git使用者容易貢獻，如有需求或解法歡迎提出issue討論。
-
-### Helloworld
