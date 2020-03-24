@@ -12,6 +12,8 @@
 
 * [mysql backup & Import.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/mysql%20backup%20%26%20Import.mds)：資料庫的匯入匯出說明。
 
+* [How to backup your WordPress website.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/How%20to%20backup%20your%20WordPress%20website.md)：備份 WordPress 的注意事項，這是演講簡報的詳細資料，也用來提醒大家備份網站應該注意的內容與建議步驟。
+
 ## LICENSE 著作權授權
 本專案為 MIT LICENSE 著作權授權合約，詳細授權合約內容請參考本專案的 LICENSE 檔案。  
 
