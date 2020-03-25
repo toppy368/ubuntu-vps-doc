@@ -49,6 +49,7 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 
 ### VPS 雲端主機備份法
 > 編輯備註：請家需要備份那些內容的細部項目與路徑直接移動過來
+> 可用rsync 語法快速搬移目錄到自己的電腦
 
 ## 自動備份：UpdraftPlus 備份套件展示 (Demo時間)
 官方下載網址：https://wordpress.org/plugins/updraftplus/
