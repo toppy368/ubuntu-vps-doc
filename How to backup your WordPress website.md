@@ -47,6 +47,7 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 本次只講解資料庫的備份方法，檔案備份請利用FTP工具或虛擬主機商提供的後臺進行備份。  
 虛擬主機通常會給你cPlane等網站管理後臺，這些後臺通常也有檔案備份工具，因為各主機商提供的面板有差異，詳情請利用線上客服或客服表單詢問。
 
+#### 利用 phpMyAdmin 備份 WordPress 的 SQL 資料庫
 > 編輯備註：請在此張貼 phpMyAdmin 的備份資料庫操作
 
 ### VPS 雲端主機備份法
