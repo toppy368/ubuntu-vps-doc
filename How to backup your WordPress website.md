@@ -19,7 +19,7 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 * [勒索軟體（圖檔:CryptoLocker）](https://commons.wikimedia.org/wiki/File:CryptoLocker.jpg?uselang=zh-tw)
 授權條款：CC BY-SA 自由分享，若修改才有條件
 
-## 備份網站需要具備的知識 
+## 備份網站的注意事項
 > 作者提示：此段可能會刪除或簡化 （順序可能也會搬移）
 
 * 虛擬主機使用者：虛擬主機有提供後台與FTP權限，需手動設定主機商給的空間並傳輸/安裝WordPress
