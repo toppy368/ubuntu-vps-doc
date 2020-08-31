@@ -20,6 +20,8 @@ https://en.wikipedia.org/wiki/File:Wana_Decrypt0r_screenshot.png
 第三張圖片可用素材：
 https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 
+授權條款說明：https://www.pexels.com/license/
+
 ## 備份網站的注意事項 - 圖檔素材
 
 圖檔素材：https://www.irasutoya.com/2015/06/blog-post_344.html?m=1
