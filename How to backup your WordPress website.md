@@ -20,6 +20,11 @@ https://en.wikipedia.org/wiki/File:Wana_Decrypt0r_screenshot.png
 第三張圖片可用素材：
 https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 
+## 備份網站的注意事項 - 圖檔素材
+
+圖檔素材：https://www.irasutoya.com/2015/06/blog-post_344.html?m=1
+
+授權條款說明：https://www.irasutoya.com/p/terms.html
 
 ## 備份網站的注意事項 - WordPress 成份說明
 > 編輯備註：編輯簡報時，請將路徑移動到手動備份解說，此章節只說明重點不說明用途
