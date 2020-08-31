@@ -5,7 +5,7 @@
 ## 自我介紹
 
 
-## 為何需要備份
+## 為什麼網站需要備份
 
     作者提示：這兩張圖需要說明狡兔有三窟的原因，同時需要檢查是否為CC0授權的圖檔或新聞圖檔 (註：CC0等於公共領域，至於新聞則是因為單純描述新聞內容不受著作權保護)
 
@@ -15,7 +15,7 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 第二張圖片可用素材：  
 https://en.wikipedia.org/wiki/File:Wana_Decrypt0r_screenshot.png
 
-## 為何需要備份 - 結論
+## 為什麼網站需要備份 - 結論
 
 第三張圖片可用素材：
 https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
