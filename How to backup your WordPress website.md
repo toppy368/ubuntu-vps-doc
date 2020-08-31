@@ -15,18 +15,20 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 第二張圖片可用素材：  
 https://en.wikipedia.org/wiki/File:Wana_Decrypt0r_screenshot.png
 
+> 授權條款說明：維基百科的授權條款都放在網址內文中，本簡報均採用公共領域或可免費商業使用的圖檔，以避免著作權侵權爭議。
+
 ## 為什麼網站需要備份 - 結論
 
 第三張圖片可用素材：
 https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 
-授權條款說明：https://www.pexels.com/license/
+> 授權條款說明：https://www.pexels.com/license/
 
 ## 備份網站的注意事項 - 圖檔素材
 
 圖檔素材：https://www.irasutoya.com/2015/06/blog-post_344.html?m=1
 
-授權條款說明：https://www.irasutoya.com/p/terms.html
+> 授權條款說明：https://www.irasutoya.com/p/terms.html
 
 ## 備份網站的注意事項 - WordPress 成份說明
 > 編輯備註：編輯簡報時，請將路徑移動到手動備份解說，此章節只說明重點不說明用途
