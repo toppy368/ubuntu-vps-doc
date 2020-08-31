@@ -4,7 +4,7 @@
 
 ## 自我介紹
 
-<<<<<<< HEAD
+
 ## 為何需要備份
 
     作者提示：這兩張圖需要說明狡兔有三窟的原因，同時需要檢查是否為CC0授權的圖檔或新聞圖檔 (註：CC0等於公共領域，至於新聞則是因為單純描述新聞內容不受著作權保護)
@@ -19,9 +19,7 @@ https://en.wikipedia.org/wiki/File:Wana_Decrypt0r_screenshot.png
 
 第三張圖片可用素材：
 https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
-=======
 
->>>>>>> master
 
 ## WordPress 需要備份那些內容
 > 編輯備註：編輯簡報時，請將路徑移動到手動備份解說，此章節只說明重點不說明用途
