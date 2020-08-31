@@ -31,7 +31,8 @@ https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 > 授權條款說明：https://www.irasutoya.com/p/terms.html
 
 ## 備份網站的注意事項 - WordPress 成份說明
-> 編輯備註：編輯簡報時，請將路徑移動到手動備份解說，此章節只說明重點不說明用途
+
+> 編輯備註：此內容為簡報的詳細版本，但可能會簡化
 
 * ~~WordPress 主程式~~ ：WordPress主程式的PHP部分，不需備份此程式，因為 [WordPress.org](https://tw.wordpress.org/download/) 官網就有最新版本，直接下載最新版本吧 !
 * SQL 資料庫：**網站的文章、套件設定與會員資料都會儲存在資料庫中** ，此為重要資料請一定要備份出來 !
