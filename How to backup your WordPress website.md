@@ -21,7 +21,7 @@ https://en.wikipedia.org/wiki/File:Wana_Decrypt0r_screenshot.png
 https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 
 
-## WordPress 需要備份那些內容
+## 備份網站的注意事項 - WordPress 成份說明
 > 編輯備註：編輯簡報時，請將路徑移動到手動備份解說，此章節只說明重點不說明用途
 
 * ~~WordPress 主程式~~ ：WordPress主程式的PHP部分，不需備份此程式，因為 [WordPress.org](https://tw.wordpress.org/download/) 官網就有最新版本，直接下載最新版本吧 !
