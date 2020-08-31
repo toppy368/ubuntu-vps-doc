@@ -6,18 +6,7 @@
 
 
 
-## 為何需要備份 (兩張圖帶過)
 
-    作者提示：這兩張圖需要說明狡兔有三窟的原因，同時需要檢查是否為CC0授權的圖檔或新聞圖檔 (註：CC0等於公共領域，至於新聞則是因為單純描述新聞內容不受著作權保護)
-
-第一章圖片可用素材：
-https://zh.wikipedia.org/wiki/File:Impact_event.jpg
-
-第三張圖片可用素材：  
-* [實驗中iPad不翼而飛！清大研究生一看定位傻眼　在75公里外光華商場 | ETtoday社會 | ETtoday新聞雲](https://www.ettoday.net/news/20191222/1607799.htm)
-* [陰謀論？清大天才博士生遭撞死　嫌燒毀「論文筆電」今自殺 | ETtoday生活 | ETtoday新聞雲](https://www.ettoday.net/news/20161015/793872.htm)
-* [勒索軟體（圖檔:CryptoLocker）](https://commons.wikimedia.org/wiki/File:CryptoLocker.jpg?uselang=zh-tw)
-授權條款：CC BY-SA 自由分享，若修改才有條件
 
 ## 備份網站的注意事項
 > 作者提示：此段可能會刪除或簡化 （順序可能也會搬移）
