@@ -4,8 +4,23 @@
 
 ## 自我介紹
 
-## 備份網站需要具備的知識
-> 作者提示：簡短版本在手動備份的步驟會簡短帶過避免睡著，長版本則會完整敘述手動備份操作步驟。
+
+
+## 為何需要備份 (兩張圖帶過)
+
+    作者提示：這兩張圖需要說明狡兔有三窟的原因，同時需要檢查是否為CC0授權的圖檔或新聞圖檔 (註：CC0等於公共領域，至於新聞則是因為單純描述新聞內容不受著作權保護)
+
+第一章圖片可用素材：
+https://zh.wikipedia.org/wiki/File:Impact_event.jpg
+
+第三張圖片可用素材：  
+* [實驗中iPad不翼而飛！清大研究生一看定位傻眼　在75公里外光華商場 | ETtoday社會 | ETtoday新聞雲](https://www.ettoday.net/news/20191222/1607799.htm)
+* [陰謀論？清大天才博士生遭撞死　嫌燒毀「論文筆電」今自殺 | ETtoday生活 | ETtoday新聞雲](https://www.ettoday.net/news/20161015/793872.htm)
+* [勒索軟體（圖檔:CryptoLocker）](https://commons.wikimedia.org/wiki/File:CryptoLocker.jpg?uselang=zh-tw)
+授權條款：CC BY-SA 自由分享，若修改才有條件
+
+## 備份網站的注意事項
+> 作者提示：此段可能會刪除或簡化 （順序可能也會搬移）
 
 * 虛擬主機使用者：虛擬主機有提供後台與FTP權限，需手動設定主機商給的空間並傳輸/安裝WordPress
 * VPS 或 雲端主機 (GCP或AWS EC2等視同雲端主機) 使用者：需要手動網頁伺服器環境並安裝 WordPress **(此動作需要Linux指令，具有門檻)**
@@ -17,6 +32,7 @@
 
 如果你是 VPS 或 GCP / AWS / Azure 等空間的使用者，還需要具有 Linux 指令並安裝環境，這些操作可能需要 Debug/排除錯誤 的心理準備。(虛擬主機商都幫你搞定以上的操作)
 
+<<<<<<< HEAD
 ## 為何需要備份
 
     作者提示：這兩張圖需要說明狡兔有三窟的原因，同時需要檢查是否為CC0授權的圖檔或新聞圖檔 (註：CC0等於公共領域，至於新聞則是因為單純描述新聞內容不受著作權保護)
@@ -31,6 +47,9 @@ https://en.wikipedia.org/wiki/File:Wana_Decrypt0r_screenshot.png
 
 第三張圖片可用素材：
 https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
+=======
+
+>>>>>>> master
 
 ## WordPress 需要備份那些內容
 > 編輯備註：編輯簡報時，請將路徑移動到手動備份解說，此章節只說明重點不說明用途
