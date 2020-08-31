@@ -30,6 +30,8 @@ https://zh.wikipedia.org/wiki/File:Impact_event.jpg
 
 ## 為何需要備份 - 結論
 
+第三張圖片可用素材：
+
 ## WordPress 需要備份那些內容
 > 編輯備註：編輯簡報時，請將路徑移動到手動備份解說，此章節只說明重點不說明用途
 
