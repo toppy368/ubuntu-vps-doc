@@ -41,7 +41,7 @@ https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 
 ## 備份網站的注意事項 - WordPress 成份說明
 
-> 編輯備註：此內容為簡報的詳細版本，但可能會簡化
+> 編輯備註：已與簡報同步
 
 * WordPress 程式相關
     * ~~主程式~~ (因官網有此檔案，所以不需備份，但需知道網站正在運作的WordPress版本為多少)
