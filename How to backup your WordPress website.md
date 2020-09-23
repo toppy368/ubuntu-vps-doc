@@ -63,6 +63,15 @@ https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 
 如果忘記套件/模板與媒體庫放在哪裏（或懶得記路徑），可直接備份 WordPress 網站目錄的 wp-content 資料夾(套件/模板/媒體庫都在裡面）。
 
+* 資料庫
+* 請記得資料庫名稱 (WordPress的config.php會記錄名稱與帳號密碼) ，WordPress的文章與套件設定都在資料庫裡面
+
+* 主機商設定
+* 虛擬主機服務商的開通信件 （主機商後台連結會附在信件內）
+* 連接VPS或遠端主機的SSH KEY
+* https 憑證 （簽署與購買憑證的過程中會產生憑證檔案，若採用 Let’s Encrypt 或 CloudFlare 的憑證，因為可重新申請與產生憑證，所以不需備份）
+
+
 ## 備網站備份的注意事項 - 站長操作備份的原則
 
 > 作者提示：此段可能會刪除或簡化 （順序可能也會搬移）
