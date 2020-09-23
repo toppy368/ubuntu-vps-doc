@@ -24,6 +24,15 @@ https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 
 > 授權條款說明：https://www.pexels.com/license/
 
+結論：防範(意外)於未然，狡兔有三窟！  
+
+無論主機商、網站程式升級 (WordPress 主程式或套件升級發生意外)、或發生資安事故時，網站本身若有備份，可以先救回資料再並進行補救措施。  
+
+若要客製化/對WordPress做不可預期的操作(例如：更改ＷordPress程式碼、手動操作資料庫等)，也必須備份以避免發生意外。  
+
+平時也可整理網站所需要的內容，當成網站的緊急救難包/打包後的行李，未來當主機發生意外或需要搬家時 (例如主機商倒閉) ，可以將網站搬移至其他主機商。
+
+
 ## 備份網站的注意事項 - 圖檔素材
 
 圖檔素材：https://www.irasutoya.com/2015/06/blog-post_344.html?m=1
