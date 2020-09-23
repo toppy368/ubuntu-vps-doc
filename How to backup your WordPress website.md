@@ -58,7 +58,7 @@ https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
     * 請記得資料庫名稱 (WordPress的config.php會記錄名稱與帳號密碼) 
     * WordPress的文章與套件設定都在資料庫裡面
 
-* 主機商設定
+* 主機設定
     * 虛擬主機服務商的開通信件 （主機商後台連結會附在信件內）
     * 連接VPS或遠端主機的SSH KEY
     * https 憑證 （簽署與購買憑證的過程中會產生憑證檔案，若採用 Let’s Encrypt 或 CloudFlare 的憑證，因為可重新申請與產生憑證，所以不需備份）
@@ -78,7 +78,7 @@ https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 
 如果你是 VPS 或 GCP / AWS / Azure 等空間的使用者，還需要具有 Linux 指令並安裝環境，這些操作可能需要 Debug/排除錯誤 的心理準備。(虛擬主機商都幫你搞定以上的操作)
 
-## 手動備份解說 (會睡著建議簡單帶過或省略)
+## 備份方式解說 (會睡著建議簡單帶過或省略)
 > 編輯備註：編輯簡報時請區分簡介與詳解的內容，此段可視情況刪減
 
 ### 虛擬主機備份法
