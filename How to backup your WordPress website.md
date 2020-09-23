@@ -59,6 +59,7 @@ https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
     * 媒體庫 （路徑：`/<你的 WordPress 網站目錄>wp-content/uploads/`）
     * wp-config.php (WordPress 設定擋)
     * 其他套件設定 （例如Google網站工具的檔案、套件的API KEY與密碼等）
+    * 匯出功能 XML 檔 （若有備份SQL可不需 XML 檔，可備份基本的文章、留言、自訂欄位、分類及標籤）
 
 如果忘記套件/模板與媒體庫放在哪裏（或懶得記路徑），可直接備份 WordPress 網站目錄的 wp-content 資料夾(套件/模板/媒體庫都在裡面）。
 
