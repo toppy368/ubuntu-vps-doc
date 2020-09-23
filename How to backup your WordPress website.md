@@ -43,15 +43,6 @@ https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 
 > 編輯備註：此內容為簡報的詳細版本，但可能會簡化
 
-* ~~WordPress 主程式~~ ：WordPress主程式的PHP部分，不需備份此程式，因為 [WordPress.org](https://tw.wordpress.org/download/) 官網就有最新版本，直接下載最新版本吧 !
-* SQL 資料庫：**網站的文章、套件設定與會員資料都會儲存在資料庫中** ，此為重要資料請一定要備份出來 !
-    * XML 資料：正式名稱為 WordPress eXtended RSS (WXR)，可作為SQL資料的替代品，WordPress主選單下的 `工具 > 匯出程式` 可以找到 匯出XML 的選項，要匯入請於空的網站尋找 `工具 > 匯入程式` 即可匯入XML。
-* 媒體庫、套件與佈景主題：
-    * 媒體庫：這通常 **儲存文章的圖片與影片** ，通常 WordPress 預設的路徑為 `/<你的 WordPress 網站目錄>wp-content/uploads/`，但如果有變更媒體庫的位置，或把圖片放在另一個圖床伺服器，請以變更後的路徑為主。
-    * 套件：路徑為 `/<你的 WordPress 網站目錄>/wp-content/plugins`。
-    * 佈景主題：路徑為 `/<你的 WordPress 網站目錄>/wp-content/themes`。
-* 網站、主機的各種設定：最重要的內容是`wp-config.php`裏頭儲存的主機位置與密碼等設定(也包含 WordPress 帳密)，如果你有使用 `SSH KEY` 或 `https 的憑證` 也請備份起來，避免進不去舊主機。
-
 * WordPress 程式相關
     * ~~主程式~~ (因官網有此檔案，所以不需備份，但需知道網站正在運作的WordPress版本為多少)
     * 佈景主題 （路徑：`/<你的 WordPress 網站目錄>/wp-content/themes`）
