@@ -55,7 +55,8 @@ https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
 如果忘記套件/模板與媒體庫放在哪裏（或懶得記路徑），可直接備份 WordPress 網站目錄的 wp-content 資料夾(套件/模板/媒體庫都在裡面）。
 
 * 資料庫
-    * 請記得資料庫名稱 (WordPress的config.php會記錄名稱與帳號密碼) ，WordPress的文章與套件設定都在資料庫裡面
+    * 請記得資料庫名稱 (WordPress的config.php會記錄名稱與帳號密碼) 
+    * WordPress的文章與套件設定都在資料庫裡面
 
 * 主機商設定
     * 虛擬主機服務商的開通信件 （主機商後台連結會附在信件內）
