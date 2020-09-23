@@ -63,7 +63,7 @@ https://www.pexels.com/photo/crop-man-sealing-cardboard-box-with-tape-4506249/
     * https 憑證 （簽署與購買憑證的過程中會產生憑證檔案，若採用 Let’s Encrypt 或 CloudFlare 的憑證，因為可重新申請與產生憑證，所以不需備份）
 
 
-## 備網站備份的注意事項 - 站長操作備份的原則
+## 網站備份的注意事項 - 站長操作備份的原則
 
 > 作者提示：此段可能會刪除或簡化 （順序可能也會搬移）
 
