@@ -1,5 +1,6 @@
 # 透過 Docker 安裝 Laravel (Laravel Sail)
 
+Laravel 官方在 8.0 以後的版本新增加了 Laravel Sail，這技術是利用Docker與Docker Compose，使用者利用此方式可以不需要一一安裝Laravel的運作環境，可以快速安裝Laravel專案本體與運作環境。
 
 ## 安裝 Docker Engine
 
