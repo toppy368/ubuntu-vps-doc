@@ -28,14 +28,14 @@ URL : https://laravel.com/docs/8.x/sail
 
 首先，先進入之前已經建立好的專案，官方範例已建立 example-app 專案
 
-cd example-app
+    cd example-app
 
 之後，輸入以下指令以啟動此專案：
 
-./vendor/bin/sail up
+    ./vendor/bin/sail up
 
 過程中會啟動此專案相關的Docker設定。
 
 最後，請開啟瀏覽器並輸入 localhost 作為網址：
 
-http://localhost/
+    http://localhost/
