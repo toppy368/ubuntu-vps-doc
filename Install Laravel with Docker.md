@@ -23,3 +23,9 @@ URL：https://laravel.com/docs/8.x/installation
 ## Laravel Sail 相關說明
 
 URL : https://laravel.com/docs/8.x/sail
+
+## 啟動利用 Sail 所建立的專案
+
+cd example-app
+
+./vendor/bin/sail up
