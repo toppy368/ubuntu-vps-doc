@@ -24,7 +24,7 @@ URL：https://laravel.com/docs/8.x/installation
 
 URL : https://laravel.com/docs/8.x/sail
 
-## 啟動利用 Sail 所建立的專案
+### 啟動利用 Sail 所建立的專案
 
 首先，先進入之前已經建立好的專案，官方範例已建立 example-app 專案
 
