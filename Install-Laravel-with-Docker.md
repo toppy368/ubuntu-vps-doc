@@ -25,10 +25,12 @@ URL: https://docs.docker.com/compose/install/
 
 URL：https://laravel.com/docs/8.x/installation
 
-下載並建立 Laravel 專案，專案名稱為 example-app：
+下載並建立 Laravel 專案，專案名稱為 example-app：  
+
     curl -s https://laravel.build/example-app | bash
 
-下載成功後可使用此指令，啟動此專案：
+下載成功後可使用此指令，啟動此專案：  
+
     cd example-app && ./vendor/bin/sail up
 
 ## Laravel Sail 相關說明
