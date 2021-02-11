@@ -33,6 +33,10 @@ URL：https://laravel.com/docs/8.x/installation
 
     cd example-app && ./vendor/bin/sail up
 
+最後，請開啟瀏覽器並輸入 localhost 作為網址：
+
+    http://localhost/
+
 ## Laravel Sail 相關說明
 
 URL : https://laravel.com/docs/8.x/sail
