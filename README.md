@@ -14,7 +14,7 @@
 
 * [How to backup your WordPress website.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/How-to-backup-your-WordPress-website.md)：備份 WordPress 的注意事項，這是演講簡報的詳細資料，也用來提醒大家備份網站應該注意的內容與建議步驟。
 
-* [Install Laravel with Docker.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Install%20Laravel%20with%20Docker.md)：Laravel提供了一個透過Docker快速安裝Laravel的方法，此文件已為此整理透過Docker建立 Laravel 專案的方式，此方法在 Laravel 官網稱為 Laravel Sail ‧
+* [Install Laravel with Docker.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Install-Laravel-with-Docker.md)：Laravel提供了一個透過Docker快速安裝Laravel的方法，此文件已為此整理透過Docker建立 Laravel 專案的方式，此方法在 Laravel 官網稱為 Laravel Sail ‧
 
 ## LICENSE 著作權授權
 本專案為 MIT LICENSE 著作權授權合約，詳細授權合約內容請參考本專案的 LICENSE 檔案。  
