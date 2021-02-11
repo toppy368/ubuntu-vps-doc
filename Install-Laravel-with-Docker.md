@@ -5,7 +5,7 @@ Laravel 官方在 8.0 以後的版本新增加了 Laravel Sail，這技術是利
 ## 原理說明
 Docker 會在你的作業系統，例如 macOS 或各種 Linux 發行版中規劃一個空間，一般稱為"容器"，而容器可以裝各種服務，以本專案來說，Laravel是基於PHP程式語言與SQL資料庫運作的網頁開發框架，傳統模式下使用者需要安裝PHP與MySQL或MariaDB才能運作 (線上環境也需要nginx處理連線) ，而Docker可以透過簡單的指令幫你建置好環境，免除設定上的麻煩。
 
-而 Laravel Sail 是透過腳本檔執行 Docker Compose ，並透過 Docker Compose 敘述的內容來建構各種 Laravel 所需要的環境與服務設定等，使用者只需裝好以下的 Docker 與 Docker Compose 就能利用官方提供的指令快速安裝好 Laravel ，比傳統方式簡化許多。
+而 Laravel Sail 是透過腳本檔執行 Docker Compose ，並透過 Docker Compose 敘述的內容來建構 Laravel 所需要的各種運作環境與設定，使用者只需裝好以下的 Docker 與 Docker Compose 就能利用 Laravel 文件中給予的指令裝好專案 ，比傳統方式簡化許多。
 
 ## 安裝 Docker Engine
 
