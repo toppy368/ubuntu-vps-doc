@@ -1,0 +1,4 @@
+rsync -avzhr <遠端機器帳號@遠端機器ＩＰ>:/var/www/html/ /Users/toppy368/WP-backup-今天日期
+
+格式說明：
+rsync -壓縮功能選擇（遞迴） ssh帳號＠主機ＩＰ：/備份來源路徑 /備份目的地路徑（建議另設資料夾）
