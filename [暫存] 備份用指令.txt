@@ -1,3 +1,5 @@
+rsync -avzhr Users@127.0.0.1:/var/www/html/ /Users/toppy368/WP-backup-20210226
+
 rsync -avzhr <遠端機器帳號@遠端機器ＩＰ>:/var/www/html/ /Users/toppy368/WP-backup-今天日期
 
 格式說明：
