@@ -8,4 +8,4 @@
 2. 連上官方網站的下載頁面，通常是Dwonload
 參考網址：https://code.visualstudio.com/Download
 
-3. 檢查下載選項ㄋ
+3. 檢查下載選項
