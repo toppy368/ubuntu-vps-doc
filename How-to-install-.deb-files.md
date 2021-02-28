@@ -6,5 +6,6 @@
 此步驟可以檢查來源是否可靠，包含安全性等‧
 
 2. 連上官方網站的下載頁面，通常是Dwonload
+參考網址：https://code.visualstudio.com/Download
 
-3. 檢查下載選項
+3. 檢查下載選項ㄋ
