@@ -16,9 +16,11 @@ Linux發行版當中， Ubuntu 與 Debian 可以使用 .deb 檔安裝，而 Fedo
 4. 下載完成後，透過指令進入該資料夾
 
 可用以下指令：  
+
     cd ~/Downloads
 
-或以下完整指令：
+或以下完整指令：  
+
     cd /home/User/Downloads
 
 5. 列出下載資料夾的所有檔案與詳細資料
