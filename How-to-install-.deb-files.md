@@ -21,7 +21,7 @@ Linux發行版當中， Ubuntu 與 Debian 可以使用 .deb 檔安裝，而 Fedo
 或以下完整指令：
     cd /home/User/Downloads
 
-5. 列出已下載檔案的詳細資料
+5. 列出下載資料夾的所有檔案與詳細資料
 
 可用以下指令：
     ls
