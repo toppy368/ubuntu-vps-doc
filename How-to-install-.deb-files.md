@@ -38,7 +38,7 @@ Linux發行版當中， Ubuntu 與 Debian 可以使用 .deb 檔安裝，而 Fedo
 
     code_1.53.2-1613044664_amd64.deb
 
-6. 透過 dpkg 套件安裝檔案
+6. 透過 dpkg 套件安裝檔案  
 
 Ubuntu 可透過 dpkg 來執行套件檔的安裝方式，在 Ubuntu 裡，套件安裝檔為 deb 檔，作用類似 Android 的 apk 檔，只是Linux的套件安裝不像 Windows 與 Android 可以直接執行，需要透過指令進行安裝，因此本次需要使用 dpkg 來執行套件安裝檔。
 
