@@ -12,3 +12,12 @@
 Linux發行版當中， Ubuntu 與 Debian 可以使用 .deb 檔安裝，而 Fedora、SUSE 與 Red hat 可以用 .rmp 檔，使用者可以依照自己的需求下載檔案，本次教學以 Ubuntu 為主‧
 
 下載時請注意，若官方提供的檔案為 .tar.gz 則為壓縮檔，下載後請先解壓縮，並透過指令進入解壓縮後新增的資料夾 (Downloads 裡面再多一層資料夾，內為解壓縮後的檔案) 再進行以下操作
+
+4. 下載完成後，透過指令進入該資料夾
+
+可用以下指令：
+    cd ~/Downloads
+
+或以下完整指令：
+    cd /home/User/Downloads
+
