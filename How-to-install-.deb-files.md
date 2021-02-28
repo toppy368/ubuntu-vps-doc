@@ -21,3 +21,15 @@ Linux發行版當中， Ubuntu 與 Debian 可以使用 .deb 檔安裝，而 Fedo
 或以下完整指令：
     cd /home/User/Downloads
 
+5. 列出已下載檔案的詳細資料
+
+可用以下指令：
+    ls
+
+將顯示以下結果：
+    ~/Downloads$ ls
+    code_1.53.2-1613044664_amd64.deb
+
+請照到剛才下載的檔名：
+    code_1.53.2-1613044664_amd64.deb
+
