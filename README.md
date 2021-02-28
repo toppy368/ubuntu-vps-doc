@@ -16,6 +16,8 @@
 
 * [Install Laravel with Docker.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Install-Laravel-with-Docker.md)：Laravel提供了一個透過Docker快速安裝Laravel的方法，此文件已為此整理透過Docker建立 Laravel 專案的方式，此方法在 Laravel 官網稱為 Laravel Sail 。
 
+* [How to install .deb files.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/How-to-install-.deb-files.md)：部分套件除了透過指令以外，有些套件的官方網站會提供 deb 檔供使用者安裝並執行套件，此文件會說明如何透過指令執行該檔案並安裝套件‧
+
 ## LICENSE 著作權授權
 本專案為 MIT LICENSE 著作權授權合約，詳細授權合約內容請參考本專案的 LICENSE 檔案。  
 
