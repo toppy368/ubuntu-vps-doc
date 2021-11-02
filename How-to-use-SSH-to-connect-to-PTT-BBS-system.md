@@ -11,7 +11,7 @@ How to use SSH to connect to PTT BBS system
 ### 預設方式：
     ssh bbs@ptt.cc
 
-### Unicode連線方式：
+### Unicode (UTF-8) 連線方式：
     ssh bbsu@ppt.cc
 
 
