@@ -5,7 +5,9 @@ How to use SSH to connect to PTT BBS system
 若在 Linux 發行版或 Macbook 上，請直接使用終端機以SSH 進行連線
 
 ### 預設方式：
-ssh bbs@ptt.cc
+    ssh bbs@ptt.cc
 
 ### Unicode連線方式：
-ssh bbsu@ppt.cc
+    ssh bbsu@ppt.cc
+
+
