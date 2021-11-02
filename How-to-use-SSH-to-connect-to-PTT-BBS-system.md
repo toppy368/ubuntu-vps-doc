@@ -5,7 +5,7 @@ How to use SSH to connect to PTT BBS system
 
 以下將說明連接方式。
 
-## 通用使用方法
+## SSH 指令通用使用方法
 若在 Linux 發行版或 Macbook 上，請直接使用終端機以 SSH 進行連線，設定SSH KEY的方式因為其他說明有，因此不再重新說明
 
 ### 預設方式：
