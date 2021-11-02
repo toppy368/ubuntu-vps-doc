@@ -20,3 +20,5 @@ How to use SSH to connect to PTT BBS system
 在 Windows 上，早期並沒有內建 SSH 協議，因此需要安裝額外軟體，例如使用 PuTTY 或其他套件來連線，但在 Windows 10 以後，作業系統已內建 SSH 的相關軟體與設定，您可以選擇直接使用終端機或是另外安裝軟體連線 (用Git內建的終端機也可以，因為Git也是透過SSH溝通的)
 
 經測試，使用 PowerShell 可以連線，詳細指令可以參考以上 **通用使用方式** 的指示進行操作
+
+SSH KEY 的說明除了可參考本專案其他文件的說明以外，也可參考 [此文件](https://docs.microsoft.com/zh-tw/windows-hardware/manufacture/desktop/factoryos/connect-using-ssh?view=windows-11)
