@@ -18,6 +18,8 @@
 
 * [How to install .deb files.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/How-to-install-.deb-files.md)：部分套件除了透過指令以外，有些套件的官方網站會提供 deb 檔供使用者安裝並執行套件，此文件會說明如何透過指令執行該檔案並安裝套件‧
 
+* [How to use SSH to connect to PTT BBS system.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/How-to-use-SSH-to-connect-to-PTT-BBS-system.md)：教導使用者怎麼透過 SSH 連接 PPT 這個資深的 BBS 網路論壇系統
+
 ## LICENSE 著作權授權
 本專案為 MIT LICENSE 著作權授權合約，詳細授權合約內容請參考本專案的 LICENSE 檔案。  
 
