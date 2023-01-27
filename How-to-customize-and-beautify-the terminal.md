@@ -8,3 +8,4 @@ GitHub頁面：https://github.com/ohmyzsh/ohmyzsh/wiki
 官方內建套件頁面：https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
 終端機推薦樣式（可支援Unicode):Powerlevel10k
+Github頁面：https://github.com/romkatv/powerlevel10k
