@@ -2,6 +2,8 @@
 
 ## 推薦工具
 終端機：iTerm2  
+官網：https://iterm2.com/  
+
 終端機框架：Oh my zsh  
 官網：https://ohmyz.sh/  
 GitHub頁面：https://github.com/ohmyzsh/ohmyzsh/wiki  
