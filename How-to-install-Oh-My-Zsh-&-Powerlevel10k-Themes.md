@@ -5,6 +5,6 @@
 終端機框架：Oh my zsh
 官網：https://ohmyz.sh/
 GitHub頁面：https://github.com/ohmyzsh/ohmyzsh/wiki
+官方內建套件頁面：https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
-終端機推薦樣式（預設）：
 終端機推薦樣式（可支援Unicode):Powerlevel10k
