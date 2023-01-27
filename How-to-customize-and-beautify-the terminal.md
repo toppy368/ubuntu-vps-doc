@@ -3,6 +3,7 @@
 ## 推薦工具
 終端機：iTerm2  
 官網：https://iterm2.com/  
+備注：這是給macOS用的終端機軟體
 
 終端機框架：Oh my zsh  
 官網：https://ohmyz.sh/  
