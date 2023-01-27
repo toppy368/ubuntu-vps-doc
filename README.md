@@ -20,7 +20,7 @@
 
 * [How to use SSH to connect to PTT BBS system.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/How-to-use-SSH-to-connect-to-PTT-BBS-system.md)：教導使用者怎麼透過 SSH 連接 PPT 這個資深的 BBS 網路論壇系統
 
-* [How to customize and beautify the terminal.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/How-to-customize-and-beautify-the-terminal.md):這是利用第三方終端機與樣式來美化終端機，讓終端機的樣式更容易被理解的安裝指南。
+* [How to customize and beautify the terminal.md](https://github.com/toppy368/ubuntu-vps-doc/blob/master/How-to-customize-and-beautify-the-terminal.md)：這是利用第三方終端機與樣式來美化終端機，讓終端機的樣式更容易被理解的安裝指南。
 
 ## LICENSE 著作權授權
 本專案為 MIT LICENSE 著作權授權合約，詳細授權合約內容請參考本專案的 LICENSE 檔案。  
