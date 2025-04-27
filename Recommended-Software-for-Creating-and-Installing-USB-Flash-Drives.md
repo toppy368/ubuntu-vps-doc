@@ -10,3 +10,8 @@
 
 官網：[Rufus - 輕鬆製作可開機的 USB 磁碟機](https://rufus.ie/)  
 Github Repositories 頁面：https://github.com/pbatard/rufus  
+
+
+## Ventoy
+官網：
+頁面：
