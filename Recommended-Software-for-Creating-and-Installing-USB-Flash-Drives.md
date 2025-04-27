@@ -14,4 +14,4 @@ Github Repositories 頁面：https://github.com/pbatard/rufus
 
 ## Ventoy
 官網：https://www.ventoy.net/en/index.html
-頁面:
+Github Repositories 頁面：
