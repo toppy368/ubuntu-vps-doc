@@ -1,0 +1,15 @@
+安裝 VScode 與設定順序
+
+1. 去官網下載檔案
+2. 安裝 deb 檔
+3. 安裝 Git
+https://git-scm.com/downloads/linux
+
+4. 設定身份資料，可參考以下網址
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+5. 從 VScode 連接 Github 登入並授權帳號
+
+6. 設定 Github 資料夾
+
+7. 建立新專案並上傳至 Github 或從 Github 下載專案回來
