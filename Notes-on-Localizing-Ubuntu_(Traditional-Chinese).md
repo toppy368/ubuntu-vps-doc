@@ -8,4 +8,9 @@
 
 注意：如要更改 Mirrors 以加快軟體更新的速度，請先更新 mirrors list 後，再執行以下的軟體更新步驟
 
+以管理員身份更新軟體包清單
+    sudo apt update
+
+以管理員身份更新需更新的軟體
+    sudo apt upgrade
 
