@@ -4,3 +4,7 @@
 
 首先，需要確認目前的螢幕解析度為何，若在 Ubuntu 可於 `設定 -> 螢幕` 找到
 
+![](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Images/Screen_resolution1.png)
+
+![](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Images/Screen_resolution2.png)
+
