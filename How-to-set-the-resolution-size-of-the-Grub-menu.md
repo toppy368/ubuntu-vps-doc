@@ -8,3 +8,4 @@
 
 ![](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Images/Screen_resolution2.png)
 
+> 本步湊以 Ubuntu 為案例，若您使用其他 Linux 發行板，請自行搜索並尋找相關設定
