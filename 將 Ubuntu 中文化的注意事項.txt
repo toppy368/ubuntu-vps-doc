@@ -1,3 +1,8 @@
 1. 首先以英文安裝 Ubuntu 避免路徑一起中文化
 
 2. 進入 Ubuntu 並更新系統
+
+sudo apt update
+
+sudo apt upgrade
+
