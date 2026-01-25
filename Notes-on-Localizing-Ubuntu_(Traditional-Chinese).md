@@ -18,3 +18,9 @@ sudo apt update
 ```
 sudo apt upgrade
 ```
+
+## 打開語系設定並下載中文語言包
+
+從右下角打開軟體清單，並找到 Language Support (語言支援)，並開啟它
+
+![](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Images/Language_Support_1.png)
