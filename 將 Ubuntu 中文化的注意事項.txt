@@ -10,3 +10,8 @@ sudo apt update
 以管理員身份更新需更新的軟體
 sudo apt upgrade
 
+3. 打開語系設定
+
+從右下角打開軟體清單，並找到 Language Support (語言支援)
+
+
