@@ -27,7 +27,7 @@
 
 * [Request and validate let's encrypt credentials with certbot](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Request-and-validate-let's-encrypt-credentials-with-certbot.md)：教導使用者如何透過 Certbot 工具 申請 (簽署) 已自行購買網域的 Let's encrypt HTTPS 加密證書與設定自動續簽。
 
-* [Recommended-Software-for-Creating-and-Installing-USB-Flash-Drives](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Recommended-Software-for-Creating-and-Installing-USB-Flash-Drives.md)：推薦幾款製作安裝作業系統 USB 隨身碟的軟體並說明優缺
+* [Recommended Software for Creating and Installing USB Flash Drives](https://github.com/toppy368/ubuntu-vps-doc/blob/master/Recommended-Software-for-Creating-and-Installing-USB-Flash-Drives.md)：推薦幾款製作安裝作業系統 USB 隨身碟的軟體並說明優缺
 
 ## LICENSE 著作權授權
 本專案為 MIT LICENSE 著作權授權合約，詳細授權合約內容請參考本專案的 LICENSE 檔案。  
