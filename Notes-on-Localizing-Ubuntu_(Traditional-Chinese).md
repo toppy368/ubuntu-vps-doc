@@ -15,5 +15,6 @@ sudo apt update
 ```
 
 以管理員身份更新需更新的軟體  
-	sudo apt upgrade
-
+```
+sudo apt upgrade
+```
