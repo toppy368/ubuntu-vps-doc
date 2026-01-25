@@ -14,4 +14,4 @@ sudo apt upgrade
 
 從右下角打開軟體清單，並找到 Language Support (語言支援)
 
-
+# 註解：<此處請放置 /Images/Language_Support_1.png>
