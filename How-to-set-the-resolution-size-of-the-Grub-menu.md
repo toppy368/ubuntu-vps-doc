@@ -65,14 +65,12 @@ grub 檔案位置：
 /etc/default/grub
 ```
 
-使用 VIM 或 nano 開啟 GRUB 設定檔：
+使用 nano 請用此指令開啟 GRUB 設定檔：
 ```
-# 如果您習慣使用 nano 編輯器，請用此指令
-# If you are used to using the nano editor, please use this command.
 sudo nano /etc/default/grub
-
-# 如果您習慣使用 VIM 編輯器，請用此指令
-# If you are used to using the VIM editor, please use this command.
+```
+使用 VIM 請用此指令開啟 GRUB 設定檔：
+```
 sudo vim /etc/default/grub
 ```
 
