@@ -65,6 +65,8 @@ grub 檔案位置：
 /etc/default/grub
 ```
 
+每個人使用編輯器的習慣不同，因此我底下分別列出 nano 與 vim 開啟此檔案的指令，可依照使用習慣選擇編輯器修改檔案。
+
 使用 nano 請用此指令開啟 GRUB 設定檔：
 ```
 sudo nano /etc/default/grub
