@@ -23,6 +23,6 @@ sudo apt upgrade
 
 5. 進入系統後，資料夾選擇維持英文的選項
 
-# 註解：<此處請放置 /Images/Language_Support_3ㄆㄒ.png>
+# 註解：<此處請放置 /Images/Language_Support_3.png>
 
 為避免路徑被改成中文化，因為資料夾改成中文，使用指令時造成困擾，請勾選「不要再詢問」並選擇「保留舊名稱」以維持源路徑
