@@ -15,11 +15,14 @@ sudo apt upgrade
 從右下角打開軟體清單，並找到 Language Support (語言支援)
 
 # 註解：<此處請放置 /Images/Language_Support_1.png>
+# 註解：<此處請放置 /Images/Language_Support_2.png>
 
 4. 重新開機
 
 這屬於重大變更，需要重新開機才能啟用此設定
 
 5. 進入系統後，資料夾選擇維持英文的選項
+
+# 註解：<此處請放置 /Images/Language_Support_2.png>
 
 餵避免路徑被改成中文化，因為資料夾改成中文，使用指令時造成困擾，請勾選「不要再詢問」並選擇「保留舊名稱」以維持源路徑
